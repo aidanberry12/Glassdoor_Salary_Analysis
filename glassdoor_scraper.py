@@ -22,7 +22,8 @@ def get_jobs(keyword, num_jobs, verbose, path, slp_time):
     
     #Change the path to where chromedriver is in your home folder.
     driver = webdriver.Chrome(executable_path=path, options=options)
-    driver.set_window_size(1120, 1000)
+    driver.set_window_size(1120, 1000)   # default size
+    #driver.set_window_size(1350, 1200)
     
     url = "https://www.glassdoor.com/Job/jobs.htm?suggestCount=0&suggestChosen=false&clickSource=searchBtn&typedKeyword="+keyword+"&sc.keyword="+keyword+"&locT=&locId=&jobType="
    
