@@ -1,743 +1,743 @@
 role,seniority,avg_salary,state,company_rating,company_size,sector,company_age
-data scientist,2,72.0, NM,3.8,medium,Aerospace & Defense,47
-data scientist,2,87.5, MD,3.4,large,Health Care,36
-data scientist,2,85.0, FL,4.8,medium,Business Services,10
-data scientist,2,76.5, WA,3.8,medium,"Oil, Gas, Energy & Utilities",55
-data scientist,2,114.5, NY,2.9,small,Business Services,22
-data scientist,2,95.0, TX,3.4,medium,other,20
-data scientist,2,73.5, MD,4.1,medium,Finance,12
-data scientist,2,114.0, CA,3.8,medium,Business Services,15
-research scientist,2,61.0, NY,3.3,large,Health Care,6
-data scientist,2,140.0, NY,4.6,small,Information Technology,11
-data scientist,2,163.5, CA,3.5,medium,Retail,9
-data scientist,2,85.0, VA,4.1,large,Business Services,52
-data scientist,3,139.0, TX,3.2,large,Retail,58
-data analyst,2,65.5, WA,4.1,medium,Business Services,8
-data scientist,2,113.5, MA,3.7,large,Biotech & Pharmaceuticals,239
-data engineer,2,146.0, NJ,3.6,medium,other,25
-data analyst,2,102.0, MA,3.9,small,Biotech & Pharmaceuticals,9
-data scientist,2,153.5, CA,4.3,medium,Information Technology,9
-data scientist,2,142.5, CA,4.2,small,Information Technology,10
-data scientist,2,87.5, CO,4.0,medium,Insurance,105
-data scientist,2,105.5, WA,3.2,medium,Information Technology,8
-data scientist,2,96.0, TX,3.9,medium,Insurance,7
-data scientist,2,112.5, IL,3.8,medium,other,25
-data scientist,2,84.0, KY,4.3,small,other,85
-data scientist,2,143.0, VA,4.0,medium,Information Technology,8
-data scientist,2,86.5, MA,4.0,large,Biotech & Pharmaceuticals,171
-data scientist,2,99.5, OR,3.5,medium,Finance,68
-data analyst,1,47.5, MA,3.7,large,Insurance,168
-data scientist,2,84.0, CT,4.0,large,Biotech & Pharmaceuticals,171
-data scientist,2,85.0, FL,4.8,medium,Business Services,10
-data scientist,2,76.5, WA,3.8,medium,"Oil, Gas, Energy & Utilities",55
-data scientist,2,96.0, MI,3.6,medium,other,23
-data scientist,2,114.5, MA,3.8,large,Biotech & Pharmaceuticals,24
-data scientist,2,121.0, CA,3.8,large,other,24
-data scientist,2,112.5, MA,4.7,medium,Biotech & Pharmaceuticals,46
-data analyst,2,106.0, CA,4.2,medium,Information Technology,12
-data scientist,2,107.0, CA,3.5,medium,Information Technology,51
-data scientist,2,110.0, MA,4.7,medium,Aerospace & Defense,10
-data scientist,2,147.5, CA,3.5,large,Biotech & Pharmaceuticals,150
-data engineer,2,106.0, NY,3.5,medium,Insurance,35
-data analyst,2,88.0, CA,4.2,medium,Information Technology,12
-data engineer,2,98.5, MA,3.6,small,other,2021
-data scientist,2,142.5, CA,4.2,small,Information Technology,10
-other,2,82.5, NJ,3.4,large,Manufacturing,5
-data scientist,2,130.0, IL,4.3,medium,other,27
-data scientist,2,155.0, DC,5.0,N/A,Information Technology,2021
-data scientist,2,184.5, WA,3.7,large,Information Technology,62
-data analyst,1,29.5, CO,3.1,large,Information Technology,34
-other,2,86.5, OH,4.7,medium,Aerospace & Defense,21
-data scientist,2,81.0, IL,3.7,large,Manufacturing,95
-data scientist,2,91.0, FL,3.8,medium,Business Services,36
-data scientist,2,114.5, MA,3.3,large,Insurance,108
-data analyst,2,68.0, AL,4.6,medium,Aerospace & Defense,18
-data scientist,2,115.0, NY,3.7,large,Insurance,157
-data scientist,2,109.5, CA,3.7,large,Aerospace & Defense,81
-data scientist,2,75.5, NM,3.5,large,Biotech & Pharmaceuticals,150
-data scientist,2,154.5, CA,4.1,medium,Information Technology,8
-data scientist,2,143.5, MO,4.7,small,Information Technology,4
-data scientist,2,73.5, MD,4.1,medium,Finance,12
-data scientist,2,95.0, TX,3.4,medium,other,20
-data scientist,2,107.0, OH,4.4,medium,other,135
-data scientist,2,115.0, NY,4.3,medium,Business Services,9
-data scientist,2,139.5, CA,3.8,medium,Finance,14
-data scientist,2,67.0, WA,3.8,medium,"Oil, Gas, Energy & Utilities",55
-data scientist,2,85.0, PA,3.8,large,Retail,72
-data scientist,2,118.0, MA,2.8,small,Biotech & Pharmaceuticals,14
-data scientist,2,79.5, GA,4.7,small,Information Technology,17
-data scientist,2,56.5, MA,3.1,medium,Business Services,21
-data scientist,2,128.5, PA,3.2,small,Business Services,2021
-other,2,97.5, WA,4.0,large,Information Technology,81
-data analyst,2,66.5, IN,4.4,small,Information Technology,5
-director,3,179.5, IL,3.6,large,Business Services,93
-other,2,76.0, MO,2.7,medium,Business Services,42
-data scientist,2,112.0, VA,3.9,medium,Information Technology,10
-data scientist,2,98.0, PA,3.1,medium,other,160
-data scientist,2,128.0, WA,4.0,large,Information Technology,81
-data scientist,2,150.5, CA,4.3,medium,Information Technology,9
-research scientist,2,87.5, MA,1.9,small,Biotech & Pharmaceuticals,20
-data scientist,2,110.0, VA,3.3,medium,Aerospace & Defense,3
-data scientist,2,113.5, CA,4.4,large,Information Technology,25
-data scientist,2,124.0, CA,3.9,small,Health Care,4
-data analyst,1,56.5, PA,4.7,medium,Business Services,23
-data scientist,2,130.0, MD,4.5,large,Aerospace & Defense,78
-data analyst,2,77.5, IL,4.3,small,Information Technology,12
-data engineer,2,87.0, VA,4.0,medium,Business Services,18
-data analyst,2,53.5, WA,4.4,medium,Business Services,72
-data scientist,3,139.0, TX,3.2,large,Retail,58
-data scientist,2,114.0, CA,3.8,medium,Business Services,15
-data scientist,2,85.5, FL,4.2,medium,Information Technology,12
-other,2,48.0, AL,4.5,small,Information Technology,24
-data analyst,2,48.0, LA,3.5,small,Information Technology,21
-other,2,174.0, CA,3.5,medium,Biotech & Pharmaceuticals,30
-data scientist,2,85.0, GA,3.9,large,Finance,52
-other,2,106.5, MD,4.7,small,Information Technology,17
-data analyst,2,72.5, MD,4.2,medium,Information Technology,32
-other,2,85.5, MD,3.4,large,Information Technology,24
-data scientist,2,97.5, VA,3.2,large,Government,62
-data scientist,2,99.0, VA,3.9,medium,Information Technology,10
-data analyst,2,56.5, WI,3.1,medium,Insurance,19
-data scientist,2,133.0, MD,4.1,small,Information Technology,13
-data scientist,2,121.0, NY,3.8,small,Business Services,8
-data scientist,2,85.5, NY,4.7,medium,Business Services,28
-data scientist,2,87.5, TX,4.3,medium,Education,5
-data scientist,2,237.5, DC,4.2,medium,Business Services,85
-data engineer,2,95.5, NC,3.9,medium,Information Technology,23
-data scientist,2,104.5, MI,3.3,large,Manufacturing,26
-data analyst,2,56.5, NJ,4.7,medium,Information Technology,8
-data analyst,2,55.0, AZ,4.3,medium,Information Technology,10
-research scientist,2,61.5, NE,2.9,medium,Health Care,43
-data scientist,2,157.0, CA,4.5,medium,Information Technology,14
-data engineer,2,78.0, NJ,3.4,medium,Information Technology,1
-data scientist,2,113.5, MA,3.7,large,Biotech & Pharmaceuticals,239
-data scientist,2,140.0, NY,4.6,small,Information Technology,11
-data scientist,2,132.5, CA,3.2,small,Information Technology,5
-data engineer,2,108.0, CA,4.0,large,Information Technology,38
-data scientist,2,80.5, IN,4.6,medium,other,83
-data scientist,2,107.5, MD,2.8,medium,Health Care,20
-data engineer,2,95.0, MN,4.7,small,Business Services,24
-data scientist,2,119.5, CA,3.0,medium,Health Care,23
-data engineer,2,134.0, NC,3.2,medium,Business Services,20
-data scientist,2,100.5, MA,4.4,medium,Information Technology,21
-data scientist,2,107.5, OH,3.5,medium,other,142
-data engineer,2,122.0, DC,4.0,small,Information Technology,5
-data engineer,2,92.5, IL,4.3,medium,other,27
-data analyst,2,62.0, MD,2.3,medium,Business Services,34
-other,2,39.5, AL,4.0,small,Business Services,20
-data scientist,2,107.5, Los Angeles,3.6,medium,Manufacturing,54
-manager,2,40.5, MO,3.8,medium,Business Services,3
-data scientist,2,89.5, VA,3.7,large,Information Technology,62
-data scientist,2,81.0, IL,4.4,medium,Business Services,12
-data scientist,2,147.0, VA,4.0,medium,Information Technology,8
-data scientist,2,85.0, TX,3.2,medium,Finance,62
-other,1,81.5, CA,2.9,medium,Manufacturing,49
-other,2,168.0, CA,3.8,medium,Biotech & Pharmaceuticals,23
-machine learning engineer,2,100.5, CO,4.3,small,Aerospace & Defense,13
-data scientist,2,97.0, NY,3.4,medium,Business Services,77
-data scientist,2,85.0, VA,4.1,large,Business Services,52
-data scientist,2,153.5, CA,4.3,medium,Information Technology,9
-data engineer,2,132.5, FL,5.0,small,Information Technology,3
-data engineer,2,100.0, IL,4.3,small,Information Technology,12
-data scientist,2,105.0, CO,3.7,medium,other,9
-data engineer,2,87.0, UT,4.2,large,other,2021
-data analyst,2,103.5, CA,4.3,small,other,7
-research scientist,2,124.0, PA,2.6,medium,Education,36
-data scientist,2,67.0, WA,3.8,medium,"Oil, Gas, Energy & Utilities",55
-data engineer,2,87.0, DC,3.9,large,Information Technology,20
-data scientist,2,137.5, IL,4.3,medium,Information Technology,9
-data scientist,2,100.0, OH,3.8,medium,Business Services,33
-data engineer,2,106.5, TN,3.8,large,Insurance,75
-data scientist,2,98.5, WA,3.8,medium,"Oil, Gas, Energy & Utilities",55
-data analyst,2,61.0, FL,4.8,medium,Business Services,10
-other,2,106.5, IN,4.4,small,Business Services,12
-data engineer,2,84.5, MA,3.9,small,Information Technology,15
-data analyst,2,109.5, NJ,3.4,medium,Manufacturing,174
-data scientist,2,164.0, MA,3.6,large,Insurance,169
-data scientist,2,169.0, CA,3.9,large,Biotech & Pharmaceuticals,44
-data scientist,2,142.0, CA,3.8,large,other,24
-data analyst,2,76.5, MA,3.7,large,Biotech & Pharmaceuticals,239
-data scientist,2,107.0, MD,3.8,medium,Insurance,39
-data scientist,3,171.5, CA,3.5,large,Information Technology,50
-data scientist,2,96.0, TX,3.9,medium,Insurance,7
-data scientist,2,142.5, CA,4.2,small,Information Technology,10
-data engineer,2,107.0, UT,4.2,large,other,2021
-other,2,145.0, MA,3.5,medium,Biotech & Pharmaceuticals,10
-data analyst,2,61.5, VA,2.9,medium,Education,27
-other,2,42.0, PA,3.6,large,Health Care,3
-data scientist,2,120.0, WI,2.7,small,Finance,69
-other,2,62.0, MA,4.4,medium,Biotech & Pharmaceuticals,7
-data scientist,2,150.5, CA,4.0,large,Information Technology,38
-manager,2,87.5, MI,4.3,medium,Business Services,53
-data engineer,2,71.5, FL,4.2,small,Business Services,14
-data analyst,2,51.5, CA,3.6,small,Retail,14
-other,2,151.5, CA,3.7,large,Biotech & Pharmaceuticals,239
-data analyst,2,77.5, NJ,2.8,medium,Information Technology,6
-other,3,140.0, MA,3.7,large,Biotech & Pharmaceuticals,239
-data scientist,2,98.5, NJ,3.3,medium,Insurance,38
-data scientist,3,225.0, CA,-1.0,small,Information Technology,3
-other,2,56.5, DE,3.6,medium,Health Care,85
-other,2,161.5, MA,3.7,large,Biotech & Pharmaceuticals,239
-data scientist,2,147.0, NY,3.4,medium,Insurance,72
-data analyst,2,61.0, MO,4.1,medium,"Oil, Gas, Energy & Utilities",59
-research scientist,2,120.0, PA,2.6,medium,Education,36
-other,2,124.5, AZ,3.2,medium,Finance,12
-data scientist,2,148.0, CA,3.9,small,Finance,11
-data analyst,2,59.0, AL,4.7,small,Aerospace & Defense,24
-data scientist,2,146.5, MA,3.7,large,Insurance,168
-other,2,91.5, MA,2.9,medium,Biotech & Pharmaceuticals,2021
-machine learning engineer,2,133.0, IL,3.0,medium,Biotech & Pharmaceuticals,5
-data scientist,3,140.5, UT,4.7,small,Biotech & Pharmaceuticals,7
-data engineer,2,70.5, LA,3.7,medium,Information Technology,2021
-other,3,84.5, NY,3.3,large,Health Care,6
-software engineer,2,93.5, MD,4.0,small,Information Technology,18
-other,2,134.5, MA,4.4,medium,Biotech & Pharmaceuticals,7
-machine learning engineer,3,181.0, CA,3.9,medium,Information Technology,13
-other,3,84.5, NY,3.3,large,Health Care,6
-data engineer,2,205.0, CA,4.1,small,Information Technology,10
-data analyst,2,48.5, CA,3.6,medium,other,34
-other,2,44.5, TX,4.0,medium,Health Care,43
-other,2,52.5, IL,2.4,medium,Manufacturing,2021
-research scientist,2,124.0, PA,2.6,medium,Education,36
-manager,2,64.0, CA,3.5,medium,Health Care,24
-data engineer,2,98.0, TN,3.0,large,Retail,62
-other,2,56.5, DE,3.6,medium,Health Care,85
-other,2,54.0, WI,3.3,medium,Manufacturing,56
-other,3,81.0, MD,2.7,medium,Biotech & Pharmaceuticals,59
-data engineer,2,107.5, IL,3.4,medium,other,15
-data scientist,2,112.5, IL,3.8,medium,other,25
-data scientist,2,89.0, VA,3.7,large,Aerospace & Defense,25
-data scientist,2,100.5, WI,4.8,medium,Insurance,95
-data analyst,2,65.0, NY,3.8,medium,other,18
-other,2,41.5, LA,3.4,large,Government,90
-data scientist,2,72.5, TX,4.3,medium,Business Services,21
-data analyst,2,61.0, FL,4.8,medium,Business Services,10
-data analyst,2,109.5, NJ,3.4,medium,Manufacturing,174
-data engineer,2,84.5, MA,3.9,small,Information Technology,15
-data scientist,2,87.5, IL,3.4,small,Business Services,28
-data analyst,2,92.5, CA,3.1,medium,other,23
-data scientist,1,81.5, VA,3.2,large,Government,62
-data analyst,2,79.0, OH,4.3,medium,other,39
-data scientist,2,164.0, MA,3.6,large,Insurance,169
-data scientist,2,169.0, CA,3.9,large,Biotech & Pharmaceuticals,44
-data scientist,2,142.0, CA,3.8,large,other,24
-data analyst,2,47.5, CA,2.8,medium,other,2021
-data analyst,2,76.5, MA,3.7,large,Biotech & Pharmaceuticals,239
-data analyst,2,69.0, CA,3.4,small,Information Technology,7
-data analyst,2,49.0, ID,4.0,medium,Information Technology,36
-data scientist,3,171.5, CA,3.5,large,Information Technology,50
-data scientist,2,107.0, MD,3.8,medium,Insurance,39
-data analyst,2,59.0, NJ,3.7,medium,Information Technology,24
-data scientist,2,88.5, IN,3.5,medium,Information Technology,1
-data engineer,2,107.0, UT,4.2,large,other,2021
-data scientist,2,86.5, MA,4.0,large,Biotech & Pharmaceuticals,171
-data scientist,2,84.0, KY,4.3,small,other,85
-data analyst,2,114.5, NY,4.7,medium,Business Services,28
-other,2,145.0, MA,3.5,medium,Biotech & Pharmaceuticals,10
-data engineer,2,88.0, TN,4.4,medium,Information Technology,14
-data engineer,2,100.0, IL,4.1,medium,Information Technology,19
-data analyst,2,61.5, VA,2.9,medium,Education,27
-data scientist,2,96.5, OR,2.5,medium,Business Services,21
-data analyst,2,76.0, MN,4.2,medium,Business Services,28
-data scientist,2,15.5, NY,3.9,medium,Business Services,54
-data scientist,2,83.5, TX,4.3,small,Business Services,10
-data scientist,2,120.0, WI,2.7,small,Finance,69
-data scientist,2,163.0, CA,3.9,large,Biotech & Pharmaceuticals,44
-data analyst,2,100.0, RI,3.4,medium,Insurance,81
-research scientist,2,52.5, NE,3.8,medium,other,103
-other,2,42.0, PA,3.6,large,Health Care,3
-data analyst,1,50.0, DC,3.3,medium,Health Care,137
-data engineer,2,93.0, TX,3.4,medium,Business Services,14
-data scientist,2,94.5, OH,3.0,medium,Insurance,133
-data scientist,2,150.5, CA,4.0,large,Information Technology,38
-data scientist,2,102.0, NC,3.7,medium,Insurance,16
-other,2,62.0, MA,4.4,medium,Biotech & Pharmaceuticals,7
-manager,2,87.5, MI,4.3,medium,Business Services,53
-data scientist,2,84.0, CT,4.0,large,Biotech & Pharmaceuticals,171
-data scientist,2,143.0, VA,4.0,medium,Information Technology,8
-data scientist,2,155.0, PA,3.2,small,Business Services,2021
-data engineer,2,71.5, FL,4.2,small,Business Services,14
-data scientist,2,108.0, CA,3.9,small,Insurance,20
-other,2,151.5, CA,3.7,large,Biotech & Pharmaceuticals,239
-data analyst,2,51.5, CA,3.6,small,Retail,14
-other,3,140.0, MA,3.7,large,Biotech & Pharmaceuticals,239
-data analyst,2,77.5, NJ,2.8,medium,Information Technology,6
-data analyst,2,63.5, ID,4.2,medium,Finance,16
-data scientist,2,109.0, CA,4.0,small,Information Technology,2021
-data scientist,2,96.0, TN,3.5,large,Aerospace & Defense,170
-data scientist,3,225.0, CA,-1.0,small,Information Technology,3
-data engineer,2,101.0, CA,3.2,medium,Finance,12
-data scientist,2,98.5, NJ,3.3,medium,Insurance,38
-data engineer,2,77.5, IA,3.9,medium,Manufacturing,72
-other,2,161.5, MA,3.7,large,Biotech & Pharmaceuticals,239
-other,2,56.5, DE,3.6,medium,Health Care,85
-data scientist,2,147.0, NY,3.4,medium,Insurance,72
-data scientist,2,90.0, CA,3.5,large,Information Technology,23
-data analyst,2,58.0, NJ,4.3,medium,Finance,118
-data analyst,2,61.0, MO,4.1,medium,"Oil, Gas, Energy & Utilities",59
-research scientist,2,120.0, PA,2.6,medium,Education,36
-data scientist,2,128.0, NY,3.6,medium,Retail,276
-data scientist,2,99.5, OR,3.5,medium,Finance,68
-data scientist,2,96.0, MI,3.6,medium,other,23
-data scientist,2,101.0, DC,2.3,medium,Biotech & Pharmaceuticals,17
-data scientist,2,148.0, CA,3.9,small,Finance,11
-data scientist,2,142.0, VA,4.0,medium,Information Technology,8
-data scientist,2,169.0, CA,4.1,small,Education,13
-other,2,124.5, AZ,3.2,medium,Finance,12
-data analyst,2,59.0, AL,4.7,small,Aerospace & Defense,24
-data analyst,2,52.5, CA,4.2,small,Business Services,33
-data engineer,2,75.5, TX,4.6,medium,Information Technology,38
-data scientist,2,139.0, NY,3.7,large,Insurance,157
-data engineer,2,102.5, MA,3.7,large,Biotech & Pharmaceuticals,239
-other,3,60.5, SC,4.4,medium,Business Services,91
-data scientist,2,146.5, MA,3.7,large,Insurance,168
-other,1,125.0, CA,3.9,large,Biotech & Pharmaceuticals,44
-data analyst,2,81.0, MA,3.6,large,Insurance,169
-machine learning engineer,2,133.0, IL,3.0,medium,Biotech & Pharmaceuticals,5
-data analyst,2,77.0, DC,3.4,large,Information Technology,24
-data engineer,2,92.0, VA,4.1,large,Business Services,52
-data scientist,2,121.0, MA,3.8,large,Biotech & Pharmaceuticals,24
-data engineer,3,162.5, CA,4.0,large,Information Technology,38
-data analyst,2,60.0, TX,3.9,medium,Business Services,73
-other,2,87.5, CA,-1.0,medium,other,2021
-data engineer,2,90.5, IN,4.4,small,Information Technology,5
-data scientist,2,114.5, MA,3.8,large,Biotech & Pharmaceuticals,24
-data scientist,2,121.0, CA,3.8,large,other,24
-data scientist,2,110.0, TX,2.2,medium,Business Services,27
-other,2,91.5, MA,2.9,medium,Biotech & Pharmaceuticals,2021
-data analyst,2,70.5, VA,4.1,large,Business Services,52
-data engineer,2,70.5, LA,3.7,medium,Information Technology,2021
-data scientist,2,76.5, WA,3.8,medium,"Oil, Gas, Energy & Utilities",55
-data engineer,2,92.0, MA,3.6,large,Insurance,169
-data scientist,3,140.5, UT,4.7,small,Biotech & Pharmaceuticals,7
-product analyst,2,82.0, VA,3.5,medium,Information Technology,51
-other,3,84.5, NY,3.3,large,Health Care,6
-other,2,134.5, MA,4.4,medium,Biotech & Pharmaceuticals,7
-data scientist,2,164.5, CA,3.3,medium,Business Services,12
-data analyst,2,44.0, FL,3.4,medium,other,29
-software engineer,2,93.5, MD,4.0,small,Information Technology,18
-data engineer,2,109.0, VA,4.4,small,Information Technology,5
-data engineer,3,149.5, TX,3.8,medium,Information Technology,10
-data engineer,1,65.5, DC,3.5,medium,Business Services,13
-data scientist,2,124.5, NC,3.5,medium,Insurance,3
-data engineer,3,114.0, CA,2.9,small,Business Services,22
-data analyst,2,49.0, PA,3.9,medium,Finance,83
-other,3,84.5, NY,3.3,large,Health Care,6
-data analyst,2,71.0, VA,3.7,medium,Information Technology,31
-director,3,101.0, MA,3.6,large,Insurance,169
-data scientist,2,107.0, CA,3.5,medium,Information Technology,51
-data scientist,2,112.5, MA,4.7,medium,Biotech & Pharmaceuticals,46
-machine learning engineer,3,181.0, CA,3.9,medium,Information Technology,13
-data analyst,2,61.0, IL,3.7,large,Information Technology,92
-data engineer,2,205.0, CA,4.1,small,Information Technology,10
-data analyst,2,103.5, KY,3.1,large,Manufacturing,145
-manager,2,63.0, MA,3.6,large,Insurance,169
-data analyst,2,62.5, CT,3.0,large,Information Technology,39
-data engineer,2,94.5, CA,3.5,medium,Health Care,7
-data analyst,2,48.5, CA,3.6,medium,other,34
-other,2,154.5, MA,3.5,medium,Biotech & Pharmaceuticals,10
-other,2,44.5, TX,4.0,medium,Health Care,43
-machine learning engineer,2,87.0, KS,3.7,medium,Finance,47
-other,2,52.5, IL,2.4,medium,Manufacturing,2021
-data engineer,2,64.5, NY,3.2,medium,Business Services,17
-other,2,111.5, CA,2.1,medium,Biotech & Pharmaceuticals,2021
-data engineer,3,154.5, MA,3.7,large,Biotech & Pharmaceuticals,239
-research scientist,2,124.0, PA,2.6,medium,Education,36
-data scientist,2,128.5, IL,4.4,medium,Business Services,12
-other,2,65.0, CO,3.7,medium,Health Care,54
-manager,2,64.0, CA,3.5,medium,Health Care,24
-data engineer,2,98.0, TN,3.0,large,Retail,62
-data scientist,2,142.5, CA,4.2,small,Information Technology,10
-data scientist,2,137.0, NY,3.9,large,Biotech & Pharmaceuticals,107
-data engineer,2,99.0, CO,4.0,medium,Insurance,105
-other,2,54.0, WI,3.3,medium,Manufacturing,56
-data scientist,2,139.5, MA,4.4,medium,Information Technology,36
-data engineer,2,109.0, MD,3.4,medium,Information Technology,21
-director,3,254.0, IL,3.3,large,Insurance,108
-data analyst,2,73.0, CA,2.9,medium,Biotech & Pharmaceuticals,8
-other,3,81.0, MD,2.7,medium,Biotech & Pharmaceuticals,59
-other,2,56.5, DE,3.6,medium,Health Care,85
-other,2,99.5, NC,3.1,large,Manufacturing,145
-data analyst,1,45.5, OH,3.3,medium,Insurance,31
-data engineer,2,122.5, IN,4.5,small,Business Services,24
-data scientist,2,140.0, IL,3.9,large,Finance,52
-other,2,77.5, VA,3.2,large,Government,62
-other,2,55.0, MA,3.3,small,"Construction, Repair & Maintenance",44
-other,2,117.5, NC,3.1,large,Manufacturing,145
-data analyst,2,70.5, CA,2.4,medium,Biotech & Pharmaceuticals,14
-manager,2,61.5, CA,4.8,small,Information Technology,9
-data analyst,1,70.0, NY,2.9,medium,Biotech & Pharmaceuticals,5
-other,2,80.0, GA,2.9,medium,Biotech & Pharmaceuticals,5
-data engineer,2,90.0, MA,3.4,medium,Insurance,32
-data analyst,2,120.0, MA,-1.0,N/A,other,2021
-other,2,73.5, PA,2.6,medium,Education,36
-data scientist,2,91.0, FL,3.8,medium,Business Services,36
-data scientist,2,155.0, DC,5.0,N/A,Information Technology,2021
-other,2,129.5, MA,3.6,large,Insurance,169
-data scientist,2,167.5, NY,4.0,large,Biotech & Pharmaceuticals,171
-data analyst,2,60.0, WI,3.8,medium,Finance,150
-data scientist,2,180.0, CA,3.9,small,Finance,11
-data analyst,2,65.0, NY,3.8,medium,other,18
-data engineer,2,112.5, NC,4.3,large,Information Technology,30
-data analyst,2,87.5, NY,1.9,medium,Retail,10
-other,2,51.5, IN,3.3,large,Insurance,108
-data analyst,1,51.0, CA,4.7,small,Business Services,48
-other,1,62.5, MA,3.1,large,Finance,164
-data engineer,2,100.0, AZ,3.4,medium,Health Care,39
-data engineer,2,85.0, VA,4.4,small,Information Technology,16
-data scientist,2,122.0, FL,3.9,medium,Information Technology,8
-data analyst,2,66.5, IL,3.9,medium,Information Technology,25
-other,2,70.5, MO,4.7,medium,Finance,18
-data engineer,2,138.5, TX,4.7,small,Business Services,10
-data scientist,2,107.5, MA,3.4,medium,Business Services,77
-other,2,120.5, MA,3.8,medium,Biotech & Pharmaceuticals,12
-other,3,81.0, MD,2.7,medium,Biotech & Pharmaceuticals,59
-data analyst,2,103.5, KY,3.1,large,Manufacturing,145
-data engineer,2,107.5, IL,3.4,medium,other,15
-data engineer,2,162.0, CA,4.0,medium,Information Technology,13
-product analyst,2,68.5, CA,3.5,medium,Information Technology,51
-data scientist,2,110.5, OH,3.4,large,Insurance,42
-data scientist,2,81.0, IL,3.7,large,Manufacturing,95
-data scientist,2,130.0, IL,4.3,medium,other,27
-data engineer,2,115.5, IA,3.7,medium,Insurance,2021
-data scientist,2,80.5, WA,3.8,medium,"Oil, Gas, Energy & Utilities",55
-data analyst,2,43.0, IA,4.6,medium,Finance,28
-director,3,140.0, MA,4.4,medium,Biotech & Pharmaceuticals,17
-other,2,120.0, MA,-1.0,N/A,other,2021
-data analyst,2,66.5, PA,3.0,large,Insurance,37
-data engineer,2,94.5, CA,4.7,small,Business Services,14
-data scientist,2,119.0, WA,3.8,medium,"Oil, Gas, Energy & Utilities",55
-other,2,51.5, NE,3.2,large,Health Care,24
-data analyst,2,27.5, TN,2.7,large,Finance,20
-director,3,194.5, IL,3.3,large,Insurance,108
-research scientist,2,71.5, TX,3.9,medium,Business Services,73
-data scientist,2,105.5, TX,3.7,medium,Education,2021
-product analyst,2,74.0, NC,3.1,large,Manufacturing,145
-data analyst,2,62.5, AL,3.7,large,Aerospace & Defense,98
-research scientist,2,65.5, NC,4.3,medium,Business Services,62
-director,3,161.5, NJ,3.6,medium,Business Services,31
-data analyst,2,72.5, PA,2.1,medium,Biotech & Pharmaceuticals,17
-data engineer,2,139.0, CA,3.9,small,Information Technology,12
-data engineer,2,136.5, CA,3.9,medium,Information Technology,13
-data scientist,1,74.5, NY,3.8,medium,other,18
-data analyst,2,80.5, NC,3.1,large,Manufacturing,145
-data scientist,2,75.5, NM,3.5,large,Biotech & Pharmaceuticals,150
-data scientist,2,143.5, MO,4.7,small,Information Technology,4
-data scientist,2,101.0, VA,5.0,small,Aerospace & Defense,6
-data engineer,2,92.0, MA,3.6,large,Insurance,169
-data scientist,2,76.5, WA,3.8,medium,"Oil, Gas, Energy & Utilities",55
-data scientist,3,140.5, UT,4.7,small,Biotech & Pharmaceuticals,7
-data scientist,2,116.5, NJ,3.6,large,Finance,208
-machine learning engineer,3,232.5, CA,4.7,medium,Information Technology,21
-data scientist,2,120.5, CA,3.5,small,Information Technology,4
-product analyst,2,82.0, VA,3.5,medium,Information Technology,51
-other,3,84.5, NY,3.3,large,Health Care,6
-data scientist,2,153.0, CA,2.7,large,Information Technology,13
-data scientist,2,127.0, CA,3.4,medium,Information Technology,12
-data scientist,2,85.5, CA,4.7,small,Information Technology,10
-data scientist,2,76.5, NY,2.8,medium,Business Services,44
-data scientist,2,128.0, NY,3.5,medium,other,28
-data engineer,2,91.5, PA,3.2,small,Business Services,2021
-other,2,134.5, MA,4.4,medium,Biotech & Pharmaceuticals,7
-data scientist,2,164.5, CA,3.3,medium,Business Services,12
-software engineer,2,93.5, MD,4.0,small,Information Technology,18
-data analyst,2,44.0, FL,3.4,medium,other,29
-data engineer,3,149.5, TX,3.8,medium,Information Technology,10
-data engineer,1,65.5, DC,3.5,medium,Business Services,13
-data engineer,2,109.0, VA,4.4,small,Information Technology,5
-data engineer,3,177.0, CA,3.7,medium,Information Technology,32
-data scientist,2,107.0, VA,4.7,medium,Aerospace & Defense,10
-data scientist,2,154.5, CA,4.1,medium,Information Technology,8
-data scientist,2,113.5, CA,4.0,small,other,2021
-data scientist,2,124.5, NC,3.5,medium,Insurance,3
-data scientist,2,143.5, CA,2.5,small,Biotech & Pharmaceuticals,2021
-data scientist,2,113.5, CA,3.9,small,Information Technology,2021
-data scientist,2,101.5, VA,3.4,large,Aerospace & Defense,51
-data analyst,2,73.0, NY,3.6,large,Manufacturing,85
-data scientist,2,80.5, NY,3.5,large,Business Services,4
-data scientist,2,110.5, NY,-1.0,N/A,other,2021
-data engineer,3,114.0, CA,2.9,small,Business Services,22
-data scientist,2,139.5, CA,3.5,small,Consumer Services,2021
-data scientist,2,145.5, NY,4.8,small,Information Technology,9
-data scientist,2,87.0, NY,4.0,medium,Finance,13
-data scientist,2,100.5, MA,4.2,medium,Finance,135
-data scientist,2,147.0, NY,3.8,large,Information Technology,53
-data engineer,2,110.5, NY,3.7,medium,Insurance,106
-data analyst,2,49.0, PA,3.9,medium,Finance,83
-data scientist,2,94.0, MA,4.6,small,Business Services,2021
-data scientist,2,123.5, NY,4.3,medium,Information Technology,21
-other,3,84.5, NY,3.3,large,Health Care,6
-data analyst,2,71.0, VA,3.7,medium,Information Technology,31
-data engineer,2,73.0, OR,4.0,large,Information Technology,81
-director,3,101.0, MA,3.6,large,Insurance,169
-machine learning engineer,3,181.0, CA,3.9,medium,Information Technology,13
-data scientist,2,109.5, CA,3.7,large,Aerospace & Defense,81
-data scientist,2,184.5, WA,3.7,large,Information Technology,62
-data scientist,2,165.0, NY,3.9,medium,Information Technology,6
-data analyst,2,61.0, IL,3.7,large,Information Technology,92
-data engineer,2,205.0, CA,4.1,small,Information Technology,10
-data analyst,2,59.5, NY,3.1,medium,Education,14
-data analyst,2,103.5, KY,3.1,large,Manufacturing,145
-data analyst,2,62.5, CT,3.0,large,Information Technology,39
-manager,2,63.0, MA,3.6,large,Insurance,169
-data analyst,2,66.0, NY,3.6,small,Health Care,40
-data engineer,2,94.5, CA,3.5,medium,Health Care,7
-data scientist,2,75.5, NY,4.2,small,Education,8
-machine learning engineer,2,87.0, VA,4.0,medium,Aerospace & Defense,66
-data scientist,2,140.0, MD,3.9,large,Biotech & Pharmaceuticals,107
-data scientist,2,86.0, MD,3.7,medium,Information Technology,14
-data scientist,2,116.5, CA,4.4,small,Information Technology,8
-other,2,154.5, MA,3.5,medium,Biotech & Pharmaceuticals,10
-machine learning engineer,2,87.0, KS,3.7,medium,Finance,47
-data analyst,2,48.5, CA,3.6,medium,other,34
-data engineer,2,80.0, TX,3.4,medium,Information Technology,18
-other,2,44.5, TX,4.0,medium,Health Care,43
-other,2,52.5, IL,2.4,medium,Manufacturing,2021
-data scientist,3,173.0, CA,3.7,large,Aerospace & Defense,81
-data engineer,2,68.5, AZ,3.5,medium,Biotech & Pharmaceuticals,23
-data scientist,2,172.0, NY,4.4,medium,Finance,19
-data scientist,2,114.5, MA,3.3,large,Insurance,108
-other,3,95.0, MD,3.9,large,Biotech & Pharmaceuticals,107
-data scientist,2,69.5, MA,3.2,large,Government,62
-data engineer,2,64.5, NY,3.2,medium,Business Services,17
-other,2,111.5, CA,2.1,medium,Biotech & Pharmaceuticals,2021
-data scientist,2,97.5, NY,4.0,medium,Consumer Services,13
-data engineer,3,154.5, MA,3.7,large,Biotech & Pharmaceuticals,239
-research scientist,2,124.0, PA,2.6,medium,Education,36
-data scientist,2,95.0, NY,3.4,medium,Health Care,9
-data scientist,2,128.5, IL,4.4,medium,Business Services,12
-data scientist,3,194.0, CA,3.2,medium,Information Technology,14
-data scientist,2,104.5, NY,3.5,medium,Business Services,15
-other,2,65.0, CO,3.7,medium,Health Care,54
-data engineer,2,85.5, NC,4.2,medium,Information Technology,12
-data analyst,2,50.0, UT,4.2,large,other,2021
-data engineer,2,113.0, CA,3.1,medium,other,23
-other,2,90.5, MA,3.9,large,Biotech & Pharmaceuticals,190
-data scientist,2,153.0, CA,4.3,small,Information Technology,12
-data analyst,2,123.5, CA,3.3,medium,Business Services,32
-data analyst,2,47.0, NY,3.9,medium,Information Technology,10
-manager,2,64.0, CA,3.5,medium,Health Care,24
-data analyst,2,162.0, CA,4.0,large,Information Technology,38
-data scientist,2,137.0, NY,3.9,large,Biotech & Pharmaceuticals,107
-data engineer,2,98.0, TN,3.0,large,Retail,62
-data scientist,2,115.0, NY,3.7,large,Insurance,157
-data scientist,2,133.5, CO,3.5,large,Biotech & Pharmaceuticals,150
-data engineer,2,99.0, CO,4.0,medium,Insurance,105
-other,2,54.0, WI,3.3,medium,Manufacturing,56
-data engineer,2,109.0, TN,3.2,medium,Health Care,16
-data engineer,2,109.0, MD,3.4,medium,Information Technology,21
-data scientist,2,139.5, MA,4.4,medium,Information Technology,36
-director,3,254.0, IL,3.3,large,Insurance,108
-machine learning engineer,2,125.0, NY,3.2,medium,Information Technology,45
-data analyst,2,106.5, MA,3.8,large,Biotech & Pharmaceuticals,24
-data analyst,2,73.0, CA,2.9,medium,Biotech & Pharmaceuticals,8
-other,3,81.0, MD,2.7,medium,Biotech & Pharmaceuticals,59
-other,2,56.5, DE,3.6,medium,Health Care,85
-other,2,99.5, NC,3.1,large,Manufacturing,145
-data analyst,1,45.5, OH,3.3,medium,Insurance,31
-data analyst,1,54.0, MA,3.7,large,Insurance,168
-data engineer,2,122.5, IN,4.5,small,Business Services,24
-data analyst,2,37.5, FL,3.0,medium,Information Technology,43
-data analyst,2,53.5, NY,3.8,medium,other,18
-data scientist,2,140.0, IL,3.9,large,Finance,52
-other,2,77.5, VA,3.2,large,Government,62
-other,2,55.0, MA,3.3,small,"Construction, Repair & Maintenance",44
-other,2,117.5, NC,3.1,large,Manufacturing,145
-data analyst,2,70.5, CA,2.4,medium,Biotech & Pharmaceuticals,14
-data analyst,1,70.0, NY,2.9,medium,Biotech & Pharmaceuticals,5
-manager,2,61.5, CA,4.8,small,Information Technology,9
-other,2,80.0, GA,2.9,medium,Biotech & Pharmaceuticals,5
-data scientist,2,79.5, GA,4.7,small,Information Technology,17
-data scientist,2,168.0, CA,4.7,medium,Information Technology,6
-data engineer,2,90.0, MA,3.4,medium,Insurance,32
-data analyst,2,120.0, MA,-1.0,N/A,other,2021
-data analyst,2,138.5, CA,3.9,small,Information Technology,12
-data analyst,3,111.5, PA,3.6,large,Biotech & Pharmaceuticals,3
-manager,2,68.5, MA,3.6,large,Insurance,169
-other,2,84.5, MA,3.9,large,Biotech & Pharmaceuticals,190
-data engineer,2,102.5, TN,4.4,medium,Information Technology,14
-other,2,73.5, PA,2.6,medium,Education,36
-research scientist,2,93.5, OH,3.6,medium,Government,53
-manager,2,127.5, PA,3.2,small,Business Services,2021
-data analyst,2,72.0, UT,4.2,large,other,2021
-other,2,129.5, MA,3.6,large,Insurance,169
-data analyst,2,47.0, UT,3.1,medium,Manufacturing,43
-data engineer,2,65.0, AL,3.8,medium,Consumer Services,6
-data analyst,2,60.0, WI,3.8,medium,Finance,150
-data scientist,2,167.5, NY,4.0,large,Biotech & Pharmaceuticals,171
-data analyst,2,65.0, NY,3.8,medium,other,18
-data analyst,2,94.0, VA,4.0,medium,Information Technology,8
-data analyst,2,87.5, NY,1.9,medium,Retail,10
-data engineer,2,97.0, VA,4.0,medium,Information Technology,8
-data engineer,2,112.5, NC,4.3,large,Information Technology,30
-other,2,91.5, MA,3.6,large,Insurance,169
-other,2,51.5, IN,3.3,large,Insurance,108
-data scientist,2,114.5, MA,3.8,large,Biotech & Pharmaceuticals,24
-data scientist,2,115.0, NY,4.3,medium,Business Services,9
-manager,2,74.0, PA,3.2,small,Business Services,2021
-data analyst,1,51.0, CA,4.7,small,Business Services,48
-data engineer,2,100.0, AZ,3.4,medium,Health Care,39
-data scientist,2,121.0, MA,3.8,large,Biotech & Pharmaceuticals,24
-data analyst,2,121.5, CA,4.5,medium,Information Technology,14
-other,1,62.5, MA,3.1,large,Finance,164
-other,2,117.5, MA,-1.0,N/A,other,2021
-data scientist,2,122.0, FL,3.9,medium,Information Technology,8
-data engineer,2,85.0, VA,4.4,small,Information Technology,16
-data engineer,2,60.5, AZ,3.4,medium,Information Technology,18
-data scientist,2,180.0, CA,3.9,small,Finance,11
-other,2,70.5, MO,4.7,medium,Finance,18
-data engineer,2,118.5, VA,3.3,medium,Aerospace & Defense,3
-data analyst,2,66.5, IL,3.9,medium,Information Technology,25
-data scientist,2,107.5, MA,3.4,medium,Business Services,77
-data engineer,2,138.5, TX,4.7,small,Business Services,10
-other,3,81.0, MD,2.7,medium,Biotech & Pharmaceuticals,59
-data engineer,2,58.5, IL,3.8,medium,Insurance,95
-data engineer,2,107.5, IL,3.4,medium,other,15
-other,2,120.5, MA,3.8,medium,Biotech & Pharmaceuticals,12
-manager,2,63.5, CA,3.9,medium,Information Technology,13
-data analyst,2,103.5, KY,3.1,large,Manufacturing,145
-data scientist,2,107.0, CA,4.1,large,Information Technology,39
-data engineer,2,105.5, VA,3.7,large,Aerospace & Defense,2021
-data engineer,2,83.0, CA,2.8,medium,Insurance,48
-data engineer,2,162.0, CA,4.0,medium,Information Technology,13
-product analyst,2,68.5, CA,3.5,medium,Information Technology,51
-data scientist,2,110.5, OH,3.4,large,Insurance,42
-data engineer,2,115.5, IA,3.7,medium,Insurance,2021
-research scientist,1,87.5, CA,3.0,medium,Biotech & Pharmaceuticals,26
-data scientist,2,80.5, WA,3.8,medium,"Oil, Gas, Energy & Utilities",55
-data analyst,2,43.0, IA,4.6,medium,Finance,28
-director,3,140.0, MA,4.4,medium,Biotech & Pharmaceuticals,17
-data analyst,3,172.0, MA,4.0,large,Biotech & Pharmaceuticals,171
-other,2,120.0, MA,-1.0,N/A,other,2021
-data analyst,2,66.5, PA,3.0,large,Insurance,37
-other,2,100.0, CA,3.0,medium,Biotech & Pharmaceuticals,26
-data engineer,2,94.5, CA,4.7,small,Business Services,14
-manager,2,221.5, CA,4.2,medium,Health Care,9
-data scientist,2,119.0, WA,3.8,medium,"Oil, Gas, Energy & Utilities",55
-data engineer,2,95.5, IL,3.5,medium,Business Services,25
-director,3,194.5, IL,3.3,large,Insurance,108
-other,2,51.5, NE,3.2,large,Health Care,24
-data analyst,2,27.5, TN,2.7,large,Finance,20
-data analyst,2,173.0, NJ,3.3,medium,Finance,47
-data scientist,2,105.5, TX,3.7,medium,Education,2021
-research scientist,2,71.5, TX,3.9,medium,Business Services,73
-product analyst,2,74.0, NC,3.1,large,Manufacturing,145
-data analyst,2,62.5, AL,3.7,large,Aerospace & Defense,98
-research scientist,2,65.5, NC,4.3,medium,Business Services,62
-data scientist,2,85.0, PA,3.8,large,Retail,72
-data scientist,3,147.5, MD,3.9,large,Biotech & Pharmaceuticals,107
-director,3,161.5, NJ,3.6,medium,Business Services,31
-data engineer,2,81.0, VA,3.7,large,Health Care,121
-data analyst,2,72.5, PA,2.1,medium,Biotech & Pharmaceuticals,17
-data engineer,2,139.0, CA,3.9,small,Information Technology,12
-data engineer,2,136.5, CA,3.9,medium,Information Technology,13
-data analyst,2,83.0, NY,3.2,medium,Information Technology,12
-research scientist,2,121.0, MA,4.6,small,Business Services,29
-data scientist,1,74.5, NY,3.8,medium,other,18
-data analyst,2,85.5, CA,2.2,medium,Retail,18
-data analyst,2,80.5, NC,3.1,large,Manufacturing,145
-research scientist,3,167.5, MA,4.6,small,Business Services,29
-research scientist,2,107.5, PA,2.6,medium,Education,36
-data analyst,2,44.5, WA,3.4,medium,other,41
-data analyst,2,107.5, MD,3.3,medium,Health Care,131
-research scientist,3,132.5, MA,-1.0,N/A,other,2021
-data analyst,2,69.5, PA,3.7,medium,Health Care,26
-other,2,98.5, CA,3.5,large,Information Technology,50
-other,2,80.5, MD,2.7,medium,Biotech & Pharmaceuticals,59
-other,2,76.5, MA,3.8,small,Biotech & Pharmaceuticals,12
-software engineer,3,99.0, MD,3.7,large,Aerospace & Defense,98
-manager,2,96.5, MA,3.8,medium,Biotech & Pharmaceuticals,12
-director,3,53.0, MA,3.3,large,Insurance,108
-data engineer,2,103.0, CA,2.7,small,Information Technology,9
-data scientist,2,139.5, CA,3.8,medium,Finance,14
-data scientist,2,67.0, WA,3.8,medium,"Oil, Gas, Energy & Utilities",55
-data analyst,2,62.5, CT,3.0,large,Information Technology,39
-other,2,92.0, MD,3.9,large,Biotech & Pharmaceuticals,107
-data analyst,2,66.0, NY,3.6,small,Health Care,40
-data engineer,2,94.5, CA,3.5,medium,Health Care,7
-data scientist,2,114.0, NJ,3.6,medium,Business Services,31
-data scientist,2,75.5, NY,4.2,small,Education,8
-data scientist,2,96.0, MO,3.5,small,Education,2021
-machine learning engineer,2,87.0, VA,4.0,medium,Aerospace & Defense,66
-data scientist,2,86.0, MD,3.7,medium,Information Technology,14
-data scientist,2,116.5, CA,4.4,small,Information Technology,8
-other,2,154.5, MA,3.5,medium,Biotech & Pharmaceuticals,10
-data analyst,2,48.5, CA,3.6,medium,other,34
-machine learning engineer,2,87.0, KS,3.7,medium,Finance,47
-data engineer,2,80.0, TX,3.4,medium,Information Technology,18
-other,2,44.5, TX,4.0,medium,Health Care,43
-data scientist,3,173.0, CA,3.7,large,Aerospace & Defense,81
-other,2,52.5, IL,2.4,medium,Manufacturing,2021
-data engineer,2,68.5, AZ,3.5,medium,Biotech & Pharmaceuticals,23
-other,3,95.0, MD,3.9,large,Biotech & Pharmaceuticals,107
-data scientist,2,69.5, MA,3.2,large,Government,62
-data scientist,2,107.0, OH,4.4,medium,other,135
-data scientist,2,112.0, VA,3.9,medium,Information Technology,10
-data scientist,2,96.5, DC,3.4,small,Business Services,23
-other,2,111.5, CA,2.1,medium,Biotech & Pharmaceuticals,2021
-data engineer,3,154.5, MA,3.7,large,Biotech & Pharmaceuticals,239
-data scientist,2,95.0, NY,3.4,medium,Health Care,9
-data scientist,2,97.5, NY,4.0,medium,Consumer Services,13
-data scientist,2,128.5, IL,4.4,medium,Business Services,12
-research scientist,2,124.0, PA,2.6,medium,Education,36
-data scientist,3,194.0, CA,3.2,medium,Information Technology,14
-other,2,65.0, CO,3.7,medium,Health Care,54
-data analyst,2,50.0, UT,4.2,large,other,2021
-data scientist,2,104.5, NY,3.5,medium,Business Services,15
-data scientist,2,69.5, AZ,4.3,medium,Information Technology,51
-data scientist,2,121.0, CA,2.6,large,Education,23
-data engineer,2,85.5, NC,4.2,medium,Information Technology,12
-data engineer,2,113.0, CA,3.1,medium,other,23
-data scientist,2,103.0, CA,3.8,medium,Manufacturing,15
-other,2,90.5, MA,3.9,large,Biotech & Pharmaceuticals,190
-data scientist,2,153.0, CA,4.3,small,Information Technology,12
-data scientist,1,106.5, VA,3.2,large,Government,62
-data scientist,2,130.0, MI,5.0,small,Information Technology,9
-data analyst,2,123.5, CA,3.3,medium,Business Services,32
-other,2,86.5, NY,4.3,medium,Information Technology,21
-manager,2,64.0, CA,3.5,medium,Health Care,24
-data analyst,2,47.0, NY,3.9,medium,Information Technology,10
-data analyst,2,162.0, CA,4.0,large,Information Technology,38
-data scientist,2,140.0, MD,3.9,large,Biotech & Pharmaceuticals,107
-data scientist,2,89.0, WA,3.4,small,Information Technology,2021
-data engineer,2,98.0, TN,3.0,large,Retail,62
-data scientist,2,137.0, NY,3.9,large,Biotech & Pharmaceuticals,107
-data engineer,2,99.0, CO,4.0,medium,Insurance,105
-other,2,54.0, WI,3.3,medium,Manufacturing,56
-data engineer,2,109.0, TN,3.2,medium,Health Care,16
-data engineer,2,109.0, MD,3.4,medium,Information Technology,21
-data scientist,2,139.5, MA,4.4,medium,Information Technology,36
-director,3,254.0, IL,3.3,large,Insurance,108
-machine learning engineer,2,125.0, NY,3.2,medium,Information Technology,45
-data analyst,2,106.5, MA,3.8,large,Biotech & Pharmaceuticals,24
-other,2,56.5, DE,3.6,medium,Health Care,85
-data analyst,2,73.0, CA,2.9,medium,Biotech & Pharmaceuticals,8
-other,3,81.0, MD,2.7,medium,Biotech & Pharmaceuticals,59
-data scientist,2,128.5, PA,3.2,small,Business Services,2021
-other,2,99.5, NC,3.1,large,Manufacturing,145
-other,2,92.0, CA,4.0,medium,Biotech & Pharmaceuticals,14
-data analyst,1,45.5, OH,3.3,medium,Insurance,31
-data engineer,2,122.5, IN,4.5,small,Business Services,24
-data analyst,2,37.5, FL,3.0,medium,Information Technology,43
-data analyst,1,54.0, MA,3.7,large,Insurance,168
-data analyst,2,53.5, NY,3.8,medium,other,18
-data scientist,2,140.0, IL,3.9,large,Finance,52
-other,2,77.5, VA,3.2,large,Government,62
-other,2,55.0, MA,3.3,small,"Construction, Repair & Maintenance",44
-other,2,117.5, NC,3.1,large,Manufacturing,145
-data analyst,2,70.5, CA,2.4,medium,Biotech & Pharmaceuticals,14
-manager,2,61.5, CA,4.8,small,Information Technology,9
-other,2,80.0, GA,2.9,medium,Biotech & Pharmaceuticals,5
-data analyst,1,70.0, NY,2.9,medium,Biotech & Pharmaceuticals,5
-data analyst,2,120.0, MA,-1.0,N/A,other,2021
-data engineer,2,90.0, MA,3.4,medium,Insurance,32
-machine learning engineer,2,111.0, CA,4.1,small,Education,13
-data analyst,2,138.5, CA,3.9,small,Information Technology,12
-manager,2,68.5, MA,3.6,large,Insurance,169
-data engineer,2,87.5, CA,3.9,medium,Information Technology,9
-data analyst,3,111.5, PA,3.6,large,Biotech & Pharmaceuticals,3
-other,2,84.5, MA,3.9,large,Biotech & Pharmaceuticals,190
-data engineer,2,102.5, TN,4.4,medium,Information Technology,14
-other,2,73.5, PA,2.6,medium,Education,36
-manager,2,127.5, PA,3.2,small,Business Services,2021
-research scientist,2,93.5, OH,3.6,medium,Government,53
+data scientist,2,72.0,NM,3.8,medium,Aerospace & Defense,47.0
+data scientist,2,87.5,MD,3.4,large,Health Care,36.0
+data scientist,2,85.0,FL,4.8,medium,Business Services,10.0
+data scientist,2,76.5,WA,3.8,medium,"Oil, Gas, Energy & Utilities",55.0
+data scientist,2,114.5,NY,2.9,small,Business Services,22.0
+data scientist,2,95.0,TX,3.4,medium,other,20.0
+data scientist,2,73.5,MD,4.1,medium,Finance,12.0
+data scientist,2,114.0,CA,3.8,medium,Business Services,15.0
+research scientist,2,61.0,NY,3.3,large,Health Care,6.0
+data scientist,2,140.0,NY,4.6,small,Information Technology,11.0
+data scientist,2,163.5,CA,3.5,medium,Retail,9.0
+data scientist,2,85.0,VA,4.1,large,Business Services,52.0
+data scientist,3,139.0,TX,3.2,large,Retail,58.0
+data analyst,2,65.5,WA,4.1,medium,Business Services,8.0
+data scientist,2,113.5,MA,3.7,large,Biotech & Pharmaceuticals,239.0
+data engineer,2,146.0,NJ,3.6,medium,other,25.0
+data analyst,2,102.0,MA,3.9,small,Biotech & Pharmaceuticals,9.0
+data scientist,2,153.5,CA,4.3,medium,Information Technology,9.0
+data scientist,2,142.5,CA,4.2,small,Information Technology,10.0
+data scientist,2,87.5,CO,4.0,medium,Insurance,105.0
+data scientist,2,105.5,WA,3.2,medium,Information Technology,8.0
+data scientist,2,96.0,TX,3.9,medium,Insurance,7.0
+data scientist,2,112.5,IL,3.8,medium,other,25.0
+data scientist,2,84.0,KY,4.3,small,other,85.0
+data scientist,2,143.0,VA,4.0,medium,Information Technology,8.0
+data scientist,2,86.5,MA,4.0,large,Biotech & Pharmaceuticals,171.0
+data scientist,2,99.5,OR,3.5,medium,Finance,68.0
+data analyst,1,47.5,MA,3.7,large,Insurance,168.0
+data scientist,2,84.0,CT,4.0,large,Biotech & Pharmaceuticals,171.0
+data scientist,2,85.0,FL,4.8,medium,Business Services,10.0
+data scientist,2,76.5,WA,3.8,medium,"Oil, Gas, Energy & Utilities",55.0
+data scientist,2,96.0,MI,3.6,medium,other,23.0
+data scientist,2,114.5,MA,3.8,large,Biotech & Pharmaceuticals,24.0
+data scientist,2,121.0,CA,3.8,large,other,24.0
+data scientist,2,112.5,MA,4.7,medium,Biotech & Pharmaceuticals,46.0
+data analyst,2,106.0,CA,4.2,medium,Information Technology,12.0
+data scientist,2,107.0,CA,3.5,medium,Information Technology,51.0
+data scientist,2,110.0,MA,4.7,medium,Aerospace & Defense,10.0
+data scientist,2,147.5,CA,3.5,large,Biotech & Pharmaceuticals,150.0
+data engineer,2,106.0,NY,3.5,medium,Insurance,35.0
+data analyst,2,88.0,CA,4.2,medium,Information Technology,12.0
+data engineer,2,98.5,MA,3.6,small,other,50.0303468208092
+data scientist,2,142.5,CA,4.2,small,Information Technology,10.0
+other,2,82.5,NJ,3.4,large,Manufacturing,5.0
+data scientist,2,130.0,IL,4.3,medium,other,27.0
+data scientist,2,155.0,DC,5.0,N/A,Information Technology,50.0303468208092
+data scientist,2,184.5,WA,3.7,large,Information Technology,62.0
+data analyst,1,29.5,CO,3.1,large,Information Technology,34.0
+other,2,86.5,OH,4.7,medium,Aerospace & Defense,21.0
+data scientist,2,81.0,IL,3.7,large,Manufacturing,95.0
+data scientist,2,91.0,FL,3.8,medium,Business Services,36.0
+data scientist,2,114.5,MA,3.3,large,Insurance,108.0
+data analyst,2,68.0,AL,4.6,medium,Aerospace & Defense,18.0
+data scientist,2,115.0,NY,3.7,large,Insurance,157.0
+data scientist,2,109.5,CA,3.7,large,Aerospace & Defense,81.0
+data scientist,2,75.5,NM,3.5,large,Biotech & Pharmaceuticals,150.0
+data scientist,2,154.5,CA,4.1,medium,Information Technology,8.0
+data scientist,2,143.5,MO,4.7,small,Information Technology,4.0
+data scientist,2,73.5,MD,4.1,medium,Finance,12.0
+data scientist,2,95.0,TX,3.4,medium,other,20.0
+data scientist,2,107.0,OH,4.4,medium,other,135.0
+data scientist,2,115.0,NY,4.3,medium,Business Services,9.0
+data scientist,2,139.5,CA,3.8,medium,Finance,14.0
+data scientist,2,67.0,WA,3.8,medium,"Oil, Gas, Energy & Utilities",55.0
+data scientist,2,85.0,PA,3.8,large,Retail,72.0
+data scientist,2,118.0,MA,2.8,small,Biotech & Pharmaceuticals,14.0
+data scientist,2,79.5,GA,4.7,small,Information Technology,17.0
+data scientist,2,56.5,MA,3.1,medium,Business Services,21.0
+data scientist,2,128.5,PA,3.2,small,Business Services,50.0303468208092
+other,2,97.5,WA,4.0,large,Information Technology,81.0
+data analyst,2,66.5,IN,4.4,small,Information Technology,5.0
+director,3,179.5,IL,3.6,large,Business Services,93.0
+other,2,76.0,MO,2.7,medium,Business Services,42.0
+data scientist,2,112.0,VA,3.9,medium,Information Technology,10.0
+data scientist,2,98.0,PA,3.1,medium,other,160.0
+data scientist,2,128.0,WA,4.0,large,Information Technology,81.0
+data scientist,2,150.5,CA,4.3,medium,Information Technology,9.0
+research scientist,2,87.5,MA,1.9,small,Biotech & Pharmaceuticals,20.0
+data scientist,2,110.0,VA,3.3,medium,Aerospace & Defense,3.0
+data scientist,2,113.5,CA,4.4,large,Information Technology,25.0
+data scientist,2,124.0,CA,3.9,small,Health Care,4.0
+data analyst,1,56.5,PA,4.7,medium,Business Services,23.0
+data scientist,2,130.0,MD,4.5,large,Aerospace & Defense,78.0
+data analyst,2,77.5,IL,4.3,small,Information Technology,12.0
+data engineer,2,87.0,VA,4.0,medium,Business Services,18.0
+data analyst,2,53.5,WA,4.4,medium,Business Services,72.0
+data scientist,3,139.0,TX,3.2,large,Retail,58.0
+data scientist,2,114.0,CA,3.8,medium,Business Services,15.0
+data scientist,2,85.5,FL,4.2,medium,Information Technology,12.0
+other,2,48.0,AL,4.5,small,Information Technology,24.0
+data analyst,2,48.0,LA,3.5,small,Information Technology,21.0
+other,2,174.0,CA,3.5,medium,Biotech & Pharmaceuticals,30.0
+data scientist,2,85.0,GA,3.9,large,Finance,52.0
+other,2,106.5,MD,4.7,small,Information Technology,17.0
+data analyst,2,72.5,MD,4.2,medium,Information Technology,32.0
+other,2,85.5,MD,3.4,large,Information Technology,24.0
+data scientist,2,97.5,VA,3.2,large,Government,62.0
+data scientist,2,99.0,VA,3.9,medium,Information Technology,10.0
+data analyst,2,56.5,WI,3.1,medium,Insurance,19.0
+data scientist,2,133.0,MD,4.1,small,Information Technology,13.0
+data scientist,2,121.0,NY,3.8,small,Business Services,8.0
+data scientist,2,85.5,NY,4.7,medium,Business Services,28.0
+data scientist,2,87.5,TX,4.3,medium,Education,5.0
+data scientist,2,237.5,DC,4.2,medium,Business Services,85.0
+data engineer,2,95.5,NC,3.9,medium,Information Technology,23.0
+data scientist,2,104.5,MI,3.3,large,Manufacturing,26.0
+data analyst,2,56.5,NJ,4.7,medium,Information Technology,8.0
+data analyst,2,55.0,AZ,4.3,medium,Information Technology,10.0
+research scientist,2,61.5,NE,2.9,medium,Health Care,43.0
+data scientist,2,157.0,CA,4.5,medium,Information Technology,14.0
+data engineer,2,78.0,NJ,3.4,medium,Information Technology,1.0
+data scientist,2,113.5,MA,3.7,large,Biotech & Pharmaceuticals,239.0
+data scientist,2,140.0,NY,4.6,small,Information Technology,11.0
+data scientist,2,132.5,CA,3.2,small,Information Technology,5.0
+data engineer,2,108.0,CA,4.0,large,Information Technology,38.0
+data scientist,2,80.5,IN,4.6,medium,other,83.0
+data scientist,2,107.5,MD,2.8,medium,Health Care,20.0
+data engineer,2,95.0,MN,4.7,small,Business Services,24.0
+data scientist,2,119.5,CA,3.0,medium,Health Care,23.0
+data engineer,2,134.0,NC,3.2,medium,Business Services,20.0
+data scientist,2,100.5,MA,4.4,medium,Information Technology,21.0
+data scientist,2,107.5,OH,3.5,medium,other,142.0
+data engineer,2,122.0,DC,4.0,small,Information Technology,5.0
+data engineer,2,92.5,IL,4.3,medium,other,27.0
+data analyst,2,62.0,MD,2.3,medium,Business Services,34.0
+other,2,39.5,AL,4.0,small,Business Services,20.0
+data scientist,2,107.5,Los Angeles,3.6,medium,Manufacturing,54.0
+manager,2,40.5,MO,3.8,medium,Business Services,3.0
+data scientist,2,89.5,VA,3.7,large,Information Technology,62.0
+data scientist,2,81.0,IL,4.4,medium,Business Services,12.0
+data scientist,2,147.0,VA,4.0,medium,Information Technology,8.0
+data scientist,2,85.0,TX,3.2,medium,Finance,62.0
+other,1,81.5,CA,2.9,medium,Manufacturing,49.0
+other,2,168.0,CA,3.8,medium,Biotech & Pharmaceuticals,23.0
+machine learning engineer,2,100.5,CO,4.3,small,Aerospace & Defense,13.0
+data scientist,2,97.0,NY,3.4,medium,Business Services,77.0
+data scientist,2,85.0,VA,4.1,large,Business Services,52.0
+data scientist,2,153.5,CA,4.3,medium,Information Technology,9.0
+data engineer,2,132.5,FL,5.0,small,Information Technology,3.0
+data engineer,2,100.0,IL,4.3,small,Information Technology,12.0
+data scientist,2,105.0,CO,3.7,medium,other,9.0
+data engineer,2,87.0,UT,4.2,large,other,50.0303468208092
+data analyst,2,103.5,CA,4.3,small,other,7.0
+research scientist,2,124.0,PA,2.6,medium,Education,36.0
+data scientist,2,67.0,WA,3.8,medium,"Oil, Gas, Energy & Utilities",55.0
+data engineer,2,87.0,DC,3.9,large,Information Technology,20.0
+data scientist,2,137.5,IL,4.3,medium,Information Technology,9.0
+data scientist,2,100.0,OH,3.8,medium,Business Services,33.0
+data engineer,2,106.5,TN,3.8,large,Insurance,75.0
+data scientist,2,98.5,WA,3.8,medium,"Oil, Gas, Energy & Utilities",55.0
+data analyst,2,61.0,FL,4.8,medium,Business Services,10.0
+other,2,106.5,IN,4.4,small,Business Services,12.0
+data engineer,2,84.5,MA,3.9,small,Information Technology,15.0
+data analyst,2,109.5,NJ,3.4,medium,Manufacturing,174.0
+data scientist,2,164.0,MA,3.6,large,Insurance,169.0
+data scientist,2,169.0,CA,3.9,large,Biotech & Pharmaceuticals,44.0
+data scientist,2,142.0,CA,3.8,large,other,24.0
+data analyst,2,76.5,MA,3.7,large,Biotech & Pharmaceuticals,239.0
+data scientist,2,107.0,MD,3.8,medium,Insurance,39.0
+data scientist,3,171.5,CA,3.5,large,Information Technology,50.0
+data scientist,2,96.0,TX,3.9,medium,Insurance,7.0
+data scientist,2,142.5,CA,4.2,small,Information Technology,10.0
+data engineer,2,107.0,UT,4.2,large,other,50.0303468208092
+other,2,145.0,MA,3.5,medium,Biotech & Pharmaceuticals,10.0
+data analyst,2,61.5,VA,2.9,medium,Education,27.0
+other,2,42.0,PA,3.6,large,Health Care,3.0
+data scientist,2,120.0,WI,2.7,small,Finance,69.0
+other,2,62.0,MA,4.4,medium,Biotech & Pharmaceuticals,7.0
+data scientist,2,150.5,CA,4.0,large,Information Technology,38.0
+manager,2,87.5,MI,4.3,medium,Business Services,53.0
+data engineer,2,71.5,FL,4.2,small,Business Services,14.0
+data analyst,2,51.5,CA,3.6,small,Retail,14.0
+other,2,151.5,CA,3.7,large,Biotech & Pharmaceuticals,239.0
+data analyst,2,77.5,NJ,2.8,medium,Information Technology,6.0
+other,3,140.0,MA,3.7,large,Biotech & Pharmaceuticals,239.0
+data scientist,2,98.5,NJ,3.3,medium,Insurance,38.0
+data scientist,3,225.0,CA,-1.0,small,Information Technology,3.0
+other,2,56.5,DE,3.6,medium,Health Care,85.0
+other,2,161.5,MA,3.7,large,Biotech & Pharmaceuticals,239.0
+data scientist,2,147.0,NY,3.4,medium,Insurance,72.0
+data analyst,2,61.0,MO,4.1,medium,"Oil, Gas, Energy & Utilities",59.0
+research scientist,2,120.0,PA,2.6,medium,Education,36.0
+other,2,124.5,AZ,3.2,medium,Finance,12.0
+data scientist,2,148.0,CA,3.9,small,Finance,11.0
+data analyst,2,59.0,AL,4.7,small,Aerospace & Defense,24.0
+data scientist,2,146.5,MA,3.7,large,Insurance,168.0
+other,2,91.5,MA,2.9,medium,Biotech & Pharmaceuticals,50.0303468208092
+machine learning engineer,2,133.0,IL,3.0,medium,Biotech & Pharmaceuticals,5.0
+data scientist,3,140.5,UT,4.7,small,Biotech & Pharmaceuticals,7.0
+data engineer,2,70.5,LA,3.7,medium,Information Technology,50.0303468208092
+other,3,84.5,NY,3.3,large,Health Care,6.0
+software engineer,2,93.5,MD,4.0,small,Information Technology,18.0
+other,2,134.5,MA,4.4,medium,Biotech & Pharmaceuticals,7.0
+machine learning engineer,3,181.0,CA,3.9,medium,Information Technology,13.0
+other,3,84.5,NY,3.3,large,Health Care,6.0
+data engineer,2,205.0,CA,4.1,small,Information Technology,10.0
+data analyst,2,48.5,CA,3.6,medium,other,34.0
+other,2,44.5,TX,4.0,medium,Health Care,43.0
+other,2,52.5,IL,2.4,medium,Manufacturing,50.0303468208092
+research scientist,2,124.0,PA,2.6,medium,Education,36.0
+manager,2,64.0,CA,3.5,medium,Health Care,24.0
+data engineer,2,98.0,TN,3.0,large,Retail,62.0
+other,2,56.5,DE,3.6,medium,Health Care,85.0
+other,2,54.0,WI,3.3,medium,Manufacturing,56.0
+other,3,81.0,MD,2.7,medium,Biotech & Pharmaceuticals,59.0
+data engineer,2,107.5,IL,3.4,medium,other,15.0
+data scientist,2,112.5,IL,3.8,medium,other,25.0
+data scientist,2,89.0,VA,3.7,large,Aerospace & Defense,25.0
+data scientist,2,100.5,WI,4.8,medium,Insurance,95.0
+data analyst,2,65.0,NY,3.8,medium,other,18.0
+other,2,41.5,LA,3.4,large,Government,90.0
+data scientist,2,72.5,TX,4.3,medium,Business Services,21.0
+data analyst,2,61.0,FL,4.8,medium,Business Services,10.0
+data analyst,2,109.5,NJ,3.4,medium,Manufacturing,174.0
+data engineer,2,84.5,MA,3.9,small,Information Technology,15.0
+data scientist,2,87.5,IL,3.4,small,Business Services,28.0
+data analyst,2,92.5,CA,3.1,medium,other,23.0
+data scientist,1,81.5,VA,3.2,large,Government,62.0
+data analyst,2,79.0,OH,4.3,medium,other,39.0
+data scientist,2,164.0,MA,3.6,large,Insurance,169.0
+data scientist,2,169.0,CA,3.9,large,Biotech & Pharmaceuticals,44.0
+data scientist,2,142.0,CA,3.8,large,other,24.0
+data analyst,2,47.5,CA,2.8,medium,other,50.0303468208092
+data analyst,2,76.5,MA,3.7,large,Biotech & Pharmaceuticals,239.0
+data analyst,2,69.0,CA,3.4,small,Information Technology,7.0
+data analyst,2,49.0,ID,4.0,medium,Information Technology,36.0
+data scientist,3,171.5,CA,3.5,large,Information Technology,50.0
+data scientist,2,107.0,MD,3.8,medium,Insurance,39.0
+data analyst,2,59.0,NJ,3.7,medium,Information Technology,24.0
+data scientist,2,88.5,IN,3.5,medium,Information Technology,1.0
+data engineer,2,107.0,UT,4.2,large,other,50.0303468208092
+data scientist,2,86.5,MA,4.0,large,Biotech & Pharmaceuticals,171.0
+data scientist,2,84.0,KY,4.3,small,other,85.0
+data analyst,2,114.5,NY,4.7,medium,Business Services,28.0
+other,2,145.0,MA,3.5,medium,Biotech & Pharmaceuticals,10.0
+data engineer,2,88.0,TN,4.4,medium,Information Technology,14.0
+data engineer,2,100.0,IL,4.1,medium,Information Technology,19.0
+data analyst,2,61.5,VA,2.9,medium,Education,27.0
+data scientist,2,96.5,OR,2.5,medium,Business Services,21.0
+data analyst,2,76.0,MN,4.2,medium,Business Services,28.0
+data scientist,2,15.5,NY,3.9,medium,Business Services,54.0
+data scientist,2,83.5,TX,4.3,small,Business Services,10.0
+data scientist,2,120.0,WI,2.7,small,Finance,69.0
+data scientist,2,163.0,CA,3.9,large,Biotech & Pharmaceuticals,44.0
+data analyst,2,100.0,RI,3.4,medium,Insurance,81.0
+research scientist,2,52.5,NE,3.8,medium,other,103.0
+other,2,42.0,PA,3.6,large,Health Care,3.0
+data analyst,1,50.0,DC,3.3,medium,Health Care,137.0
+data engineer,2,93.0,TX,3.4,medium,Business Services,14.0
+data scientist,2,94.5,OH,3.0,medium,Insurance,133.0
+data scientist,2,150.5,CA,4.0,large,Information Technology,38.0
+data scientist,2,102.0,NC,3.7,medium,Insurance,16.0
+other,2,62.0,MA,4.4,medium,Biotech & Pharmaceuticals,7.0
+manager,2,87.5,MI,4.3,medium,Business Services,53.0
+data scientist,2,84.0,CT,4.0,large,Biotech & Pharmaceuticals,171.0
+data scientist,2,143.0,VA,4.0,medium,Information Technology,8.0
+data scientist,2,155.0,PA,3.2,small,Business Services,50.0303468208092
+data engineer,2,71.5,FL,4.2,small,Business Services,14.0
+data scientist,2,108.0,CA,3.9,small,Insurance,20.0
+other,2,151.5,CA,3.7,large,Biotech & Pharmaceuticals,239.0
+data analyst,2,51.5,CA,3.6,small,Retail,14.0
+other,3,140.0,MA,3.7,large,Biotech & Pharmaceuticals,239.0
+data analyst,2,77.5,NJ,2.8,medium,Information Technology,6.0
+data analyst,2,63.5,ID,4.2,medium,Finance,16.0
+data scientist,2,109.0,CA,4.0,small,Information Technology,50.0303468208092
+data scientist,2,96.0,TN,3.5,large,Aerospace & Defense,170.0
+data scientist,3,225.0,CA,-1.0,small,Information Technology,3.0
+data engineer,2,101.0,CA,3.2,medium,Finance,12.0
+data scientist,2,98.5,NJ,3.3,medium,Insurance,38.0
+data engineer,2,77.5,IA,3.9,medium,Manufacturing,72.0
+other,2,161.5,MA,3.7,large,Biotech & Pharmaceuticals,239.0
+other,2,56.5,DE,3.6,medium,Health Care,85.0
+data scientist,2,147.0,NY,3.4,medium,Insurance,72.0
+data scientist,2,90.0,CA,3.5,large,Information Technology,23.0
+data analyst,2,58.0,NJ,4.3,medium,Finance,118.0
+data analyst,2,61.0,MO,4.1,medium,"Oil, Gas, Energy & Utilities",59.0
+research scientist,2,120.0,PA,2.6,medium,Education,36.0
+data scientist,2,128.0,NY,3.6,medium,Retail,276.0
+data scientist,2,99.5,OR,3.5,medium,Finance,68.0
+data scientist,2,96.0,MI,3.6,medium,other,23.0
+data scientist,2,101.0,DC,2.3,medium,Biotech & Pharmaceuticals,17.0
+data scientist,2,148.0,CA,3.9,small,Finance,11.0
+data scientist,2,142.0,VA,4.0,medium,Information Technology,8.0
+data scientist,2,169.0,CA,4.1,small,Education,13.0
+other,2,124.5,AZ,3.2,medium,Finance,12.0
+data analyst,2,59.0,AL,4.7,small,Aerospace & Defense,24.0
+data analyst,2,52.5,CA,4.2,small,Business Services,33.0
+data engineer,2,75.5,TX,4.6,medium,Information Technology,38.0
+data scientist,2,139.0,NY,3.7,large,Insurance,157.0
+data engineer,2,102.5,MA,3.7,large,Biotech & Pharmaceuticals,239.0
+other,3,60.5,SC,4.4,medium,Business Services,91.0
+data scientist,2,146.5,MA,3.7,large,Insurance,168.0
+other,1,125.0,CA,3.9,large,Biotech & Pharmaceuticals,44.0
+data analyst,2,81.0,MA,3.6,large,Insurance,169.0
+machine learning engineer,2,133.0,IL,3.0,medium,Biotech & Pharmaceuticals,5.0
+data analyst,2,77.0,DC,3.4,large,Information Technology,24.0
+data engineer,2,92.0,VA,4.1,large,Business Services,52.0
+data scientist,2,121.0,MA,3.8,large,Biotech & Pharmaceuticals,24.0
+data engineer,3,162.5,CA,4.0,large,Information Technology,38.0
+data analyst,2,60.0,TX,3.9,medium,Business Services,73.0
+other,2,87.5,CA,-1.0,medium,other,50.0303468208092
+data engineer,2,90.5,IN,4.4,small,Information Technology,5.0
+data scientist,2,114.5,MA,3.8,large,Biotech & Pharmaceuticals,24.0
+data scientist,2,121.0,CA,3.8,large,other,24.0
+data scientist,2,110.0,TX,2.2,medium,Business Services,27.0
+other,2,91.5,MA,2.9,medium,Biotech & Pharmaceuticals,50.0303468208092
+data analyst,2,70.5,VA,4.1,large,Business Services,52.0
+data engineer,2,70.5,LA,3.7,medium,Information Technology,50.0303468208092
+data scientist,2,76.5,WA,3.8,medium,"Oil, Gas, Energy & Utilities",55.0
+data engineer,2,92.0,MA,3.6,large,Insurance,169.0
+data scientist,3,140.5,UT,4.7,small,Biotech & Pharmaceuticals,7.0
+product analyst,2,82.0,VA,3.5,medium,Information Technology,51.0
+other,3,84.5,NY,3.3,large,Health Care,6.0
+other,2,134.5,MA,4.4,medium,Biotech & Pharmaceuticals,7.0
+data scientist,2,164.5,CA,3.3,medium,Business Services,12.0
+data analyst,2,44.0,FL,3.4,medium,other,29.0
+software engineer,2,93.5,MD,4.0,small,Information Technology,18.0
+data engineer,2,109.0,VA,4.4,small,Information Technology,5.0
+data engineer,3,149.5,TX,3.8,medium,Information Technology,10.0
+data engineer,1,65.5,DC,3.5,medium,Business Services,13.0
+data scientist,2,124.5,NC,3.5,medium,Insurance,3.0
+data engineer,3,114.0,CA,2.9,small,Business Services,22.0
+data analyst,2,49.0,PA,3.9,medium,Finance,83.0
+other,3,84.5,NY,3.3,large,Health Care,6.0
+data analyst,2,71.0,VA,3.7,medium,Information Technology,31.0
+director,3,101.0,MA,3.6,large,Insurance,169.0
+data scientist,2,107.0,CA,3.5,medium,Information Technology,51.0
+data scientist,2,112.5,MA,4.7,medium,Biotech & Pharmaceuticals,46.0
+machine learning engineer,3,181.0,CA,3.9,medium,Information Technology,13.0
+data analyst,2,61.0,IL,3.7,large,Information Technology,92.0
+data engineer,2,205.0,CA,4.1,small,Information Technology,10.0
+data analyst,2,103.5,KY,3.1,large,Manufacturing,145.0
+manager,2,63.0,MA,3.6,large,Insurance,169.0
+data analyst,2,62.5,CT,3.0,large,Information Technology,39.0
+data engineer,2,94.5,CA,3.5,medium,Health Care,7.0
+data analyst,2,48.5,CA,3.6,medium,other,34.0
+other,2,154.5,MA,3.5,medium,Biotech & Pharmaceuticals,10.0
+other,2,44.5,TX,4.0,medium,Health Care,43.0
+machine learning engineer,2,87.0,KS,3.7,medium,Finance,47.0
+other,2,52.5,IL,2.4,medium,Manufacturing,50.0303468208092
+data engineer,2,64.5,NY,3.2,medium,Business Services,17.0
+other,2,111.5,CA,2.1,medium,Biotech & Pharmaceuticals,50.0303468208092
+data engineer,3,154.5,MA,3.7,large,Biotech & Pharmaceuticals,239.0
+research scientist,2,124.0,PA,2.6,medium,Education,36.0
+data scientist,2,128.5,IL,4.4,medium,Business Services,12.0
+other,2,65.0,CO,3.7,medium,Health Care,54.0
+manager,2,64.0,CA,3.5,medium,Health Care,24.0
+data engineer,2,98.0,TN,3.0,large,Retail,62.0
+data scientist,2,142.5,CA,4.2,small,Information Technology,10.0
+data scientist,2,137.0,NY,3.9,large,Biotech & Pharmaceuticals,107.0
+data engineer,2,99.0,CO,4.0,medium,Insurance,105.0
+other,2,54.0,WI,3.3,medium,Manufacturing,56.0
+data scientist,2,139.5,MA,4.4,medium,Information Technology,36.0
+data engineer,2,109.0,MD,3.4,medium,Information Technology,21.0
+director,3,254.0,IL,3.3,large,Insurance,108.0
+data analyst,2,73.0,CA,2.9,medium,Biotech & Pharmaceuticals,8.0
+other,3,81.0,MD,2.7,medium,Biotech & Pharmaceuticals,59.0
+other,2,56.5,DE,3.6,medium,Health Care,85.0
+other,2,99.5,NC,3.1,large,Manufacturing,145.0
+data analyst,1,45.5,OH,3.3,medium,Insurance,31.0
+data engineer,2,122.5,IN,4.5,small,Business Services,24.0
+data scientist,2,140.0,IL,3.9,large,Finance,52.0
+other,2,77.5,VA,3.2,large,Government,62.0
+other,2,55.0,MA,3.3,small,"Construction, Repair & Maintenance",44.0
+other,2,117.5,NC,3.1,large,Manufacturing,145.0
+data analyst,2,70.5,CA,2.4,medium,Biotech & Pharmaceuticals,14.0
+manager,2,61.5,CA,4.8,small,Information Technology,9.0
+data analyst,1,70.0,NY,2.9,medium,Biotech & Pharmaceuticals,5.0
+other,2,80.0,GA,2.9,medium,Biotech & Pharmaceuticals,5.0
+data engineer,2,90.0,MA,3.4,medium,Insurance,32.0
+data analyst,2,120.0,MA,-1.0,N/A,other,50.0303468208092
+other,2,73.5,PA,2.6,medium,Education,36.0
+data scientist,2,91.0,FL,3.8,medium,Business Services,36.0
+data scientist,2,155.0,DC,5.0,N/A,Information Technology,50.0303468208092
+other,2,129.5,MA,3.6,large,Insurance,169.0
+data scientist,2,167.5,NY,4.0,large,Biotech & Pharmaceuticals,171.0
+data analyst,2,60.0,WI,3.8,medium,Finance,150.0
+data scientist,2,180.0,CA,3.9,small,Finance,11.0
+data analyst,2,65.0,NY,3.8,medium,other,18.0
+data engineer,2,112.5,NC,4.3,large,Information Technology,30.0
+data analyst,2,87.5,NY,1.9,medium,Retail,10.0
+other,2,51.5,IN,3.3,large,Insurance,108.0
+data analyst,1,51.0,CA,4.7,small,Business Services,48.0
+other,1,62.5,MA,3.1,large,Finance,164.0
+data engineer,2,100.0,AZ,3.4,medium,Health Care,39.0
+data engineer,2,85.0,VA,4.4,small,Information Technology,16.0
+data scientist,2,122.0,FL,3.9,medium,Information Technology,8.0
+data analyst,2,66.5,IL,3.9,medium,Information Technology,25.0
+other,2,70.5,MO,4.7,medium,Finance,18.0
+data engineer,2,138.5,TX,4.7,small,Business Services,10.0
+data scientist,2,107.5,MA,3.4,medium,Business Services,77.0
+other,2,120.5,MA,3.8,medium,Biotech & Pharmaceuticals,12.0
+other,3,81.0,MD,2.7,medium,Biotech & Pharmaceuticals,59.0
+data analyst,2,103.5,KY,3.1,large,Manufacturing,145.0
+data engineer,2,107.5,IL,3.4,medium,other,15.0
+data engineer,2,162.0,CA,4.0,medium,Information Technology,13.0
+product analyst,2,68.5,CA,3.5,medium,Information Technology,51.0
+data scientist,2,110.5,OH,3.4,large,Insurance,42.0
+data scientist,2,81.0,IL,3.7,large,Manufacturing,95.0
+data scientist,2,130.0,IL,4.3,medium,other,27.0
+data engineer,2,115.5,IA,3.7,medium,Insurance,50.0303468208092
+data scientist,2,80.5,WA,3.8,medium,"Oil, Gas, Energy & Utilities",55.0
+data analyst,2,43.0,IA,4.6,medium,Finance,28.0
+director,3,140.0,MA,4.4,medium,Biotech & Pharmaceuticals,17.0
+other,2,120.0,MA,-1.0,N/A,other,50.0303468208092
+data analyst,2,66.5,PA,3.0,large,Insurance,37.0
+data engineer,2,94.5,CA,4.7,small,Business Services,14.0
+data scientist,2,119.0,WA,3.8,medium,"Oil, Gas, Energy & Utilities",55.0
+other,2,51.5,NE,3.2,large,Health Care,24.0
+data analyst,2,27.5,TN,2.7,large,Finance,20.0
+director,3,194.5,IL,3.3,large,Insurance,108.0
+research scientist,2,71.5,TX,3.9,medium,Business Services,73.0
+data scientist,2,105.5,TX,3.7,medium,Education,50.0303468208092
+product analyst,2,74.0,NC,3.1,large,Manufacturing,145.0
+data analyst,2,62.5,AL,3.7,large,Aerospace & Defense,98.0
+research scientist,2,65.5,NC,4.3,medium,Business Services,62.0
+director,3,161.5,NJ,3.6,medium,Business Services,31.0
+data analyst,2,72.5,PA,2.1,medium,Biotech & Pharmaceuticals,17.0
+data engineer,2,139.0,CA,3.9,small,Information Technology,12.0
+data engineer,2,136.5,CA,3.9,medium,Information Technology,13.0
+data scientist,1,74.5,NY,3.8,medium,other,18.0
+data analyst,2,80.5,NC,3.1,large,Manufacturing,145.0
+data scientist,2,75.5,NM,3.5,large,Biotech & Pharmaceuticals,150.0
+data scientist,2,143.5,MO,4.7,small,Information Technology,4.0
+data scientist,2,101.0,VA,5.0,small,Aerospace & Defense,6.0
+data engineer,2,92.0,MA,3.6,large,Insurance,169.0
+data scientist,2,76.5,WA,3.8,medium,"Oil, Gas, Energy & Utilities",55.0
+data scientist,3,140.5,UT,4.7,small,Biotech & Pharmaceuticals,7.0
+data scientist,2,116.5,NJ,3.6,large,Finance,208.0
+machine learning engineer,3,232.5,CA,4.7,medium,Information Technology,21.0
+data scientist,2,120.5,CA,3.5,small,Information Technology,4.0
+product analyst,2,82.0,VA,3.5,medium,Information Technology,51.0
+other,3,84.5,NY,3.3,large,Health Care,6.0
+data scientist,2,153.0,CA,2.7,large,Information Technology,13.0
+data scientist,2,127.0,CA,3.4,medium,Information Technology,12.0
+data scientist,2,85.5,CA,4.7,small,Information Technology,10.0
+data scientist,2,76.5,NY,2.8,medium,Business Services,44.0
+data scientist,2,128.0,NY,3.5,medium,other,28.0
+data engineer,2,91.5,PA,3.2,small,Business Services,50.0303468208092
+other,2,134.5,MA,4.4,medium,Biotech & Pharmaceuticals,7.0
+data scientist,2,164.5,CA,3.3,medium,Business Services,12.0
+software engineer,2,93.5,MD,4.0,small,Information Technology,18.0
+data analyst,2,44.0,FL,3.4,medium,other,29.0
+data engineer,3,149.5,TX,3.8,medium,Information Technology,10.0
+data engineer,1,65.5,DC,3.5,medium,Business Services,13.0
+data engineer,2,109.0,VA,4.4,small,Information Technology,5.0
+data engineer,3,177.0,CA,3.7,medium,Information Technology,32.0
+data scientist,2,107.0,VA,4.7,medium,Aerospace & Defense,10.0
+data scientist,2,154.5,CA,4.1,medium,Information Technology,8.0
+data scientist,2,113.5,CA,4.0,small,other,50.0303468208092
+data scientist,2,124.5,NC,3.5,medium,Insurance,3.0
+data scientist,2,143.5,CA,2.5,small,Biotech & Pharmaceuticals,50.0303468208092
+data scientist,2,113.5,CA,3.9,small,Information Technology,50.0303468208092
+data scientist,2,101.5,VA,3.4,large,Aerospace & Defense,51.0
+data analyst,2,73.0,NY,3.6,large,Manufacturing,85.0
+data scientist,2,80.5,NY,3.5,large,Business Services,4.0
+data scientist,2,110.5,NY,-1.0,N/A,other,50.0303468208092
+data engineer,3,114.0,CA,2.9,small,Business Services,22.0
+data scientist,2,139.5,CA,3.5,small,Consumer Services,50.0303468208092
+data scientist,2,145.5,NY,4.8,small,Information Technology,9.0
+data scientist,2,87.0,NY,4.0,medium,Finance,13.0
+data scientist,2,100.5,MA,4.2,medium,Finance,135.0
+data scientist,2,147.0,NY,3.8,large,Information Technology,53.0
+data engineer,2,110.5,NY,3.7,medium,Insurance,106.0
+data analyst,2,49.0,PA,3.9,medium,Finance,83.0
+data scientist,2,94.0,MA,4.6,small,Business Services,50.0303468208092
+data scientist,2,123.5,NY,4.3,medium,Information Technology,21.0
+other,3,84.5,NY,3.3,large,Health Care,6.0
+data analyst,2,71.0,VA,3.7,medium,Information Technology,31.0
+data engineer,2,73.0,OR,4.0,large,Information Technology,81.0
+director,3,101.0,MA,3.6,large,Insurance,169.0
+machine learning engineer,3,181.0,CA,3.9,medium,Information Technology,13.0
+data scientist,2,109.5,CA,3.7,large,Aerospace & Defense,81.0
+data scientist,2,184.5,WA,3.7,large,Information Technology,62.0
+data scientist,2,165.0,NY,3.9,medium,Information Technology,6.0
+data analyst,2,61.0,IL,3.7,large,Information Technology,92.0
+data engineer,2,205.0,CA,4.1,small,Information Technology,10.0
+data analyst,2,59.5,NY,3.1,medium,Education,14.0
+data analyst,2,103.5,KY,3.1,large,Manufacturing,145.0
+data analyst,2,62.5,CT,3.0,large,Information Technology,39.0
+manager,2,63.0,MA,3.6,large,Insurance,169.0
+data analyst,2,66.0,NY,3.6,small,Health Care,40.0
+data engineer,2,94.5,CA,3.5,medium,Health Care,7.0
+data scientist,2,75.5,NY,4.2,small,Education,8.0
+machine learning engineer,2,87.0,VA,4.0,medium,Aerospace & Defense,66.0
+data scientist,2,140.0,MD,3.9,large,Biotech & Pharmaceuticals,107.0
+data scientist,2,86.0,MD,3.7,medium,Information Technology,14.0
+data scientist,2,116.5,CA,4.4,small,Information Technology,8.0
+other,2,154.5,MA,3.5,medium,Biotech & Pharmaceuticals,10.0
+machine learning engineer,2,87.0,KS,3.7,medium,Finance,47.0
+data analyst,2,48.5,CA,3.6,medium,other,34.0
+data engineer,2,80.0,TX,3.4,medium,Information Technology,18.0
+other,2,44.5,TX,4.0,medium,Health Care,43.0
+other,2,52.5,IL,2.4,medium,Manufacturing,50.0303468208092
+data scientist,3,173.0,CA,3.7,large,Aerospace & Defense,81.0
+data engineer,2,68.5,AZ,3.5,medium,Biotech & Pharmaceuticals,23.0
+data scientist,2,172.0,NY,4.4,medium,Finance,19.0
+data scientist,2,114.5,MA,3.3,large,Insurance,108.0
+other,3,95.0,MD,3.9,large,Biotech & Pharmaceuticals,107.0
+data scientist,2,69.5,MA,3.2,large,Government,62.0
+data engineer,2,64.5,NY,3.2,medium,Business Services,17.0
+other,2,111.5,CA,2.1,medium,Biotech & Pharmaceuticals,50.0303468208092
+data scientist,2,97.5,NY,4.0,medium,Consumer Services,13.0
+data engineer,3,154.5,MA,3.7,large,Biotech & Pharmaceuticals,239.0
+research scientist,2,124.0,PA,2.6,medium,Education,36.0
+data scientist,2,95.0,NY,3.4,medium,Health Care,9.0
+data scientist,2,128.5,IL,4.4,medium,Business Services,12.0
+data scientist,3,194.0,CA,3.2,medium,Information Technology,14.0
+data scientist,2,104.5,NY,3.5,medium,Business Services,15.0
+other,2,65.0,CO,3.7,medium,Health Care,54.0
+data engineer,2,85.5,NC,4.2,medium,Information Technology,12.0
+data analyst,2,50.0,UT,4.2,large,other,50.0303468208092
+data engineer,2,113.0,CA,3.1,medium,other,23.0
+other,2,90.5,MA,3.9,large,Biotech & Pharmaceuticals,190.0
+data scientist,2,153.0,CA,4.3,small,Information Technology,12.0
+data analyst,2,123.5,CA,3.3,medium,Business Services,32.0
+data analyst,2,47.0,NY,3.9,medium,Information Technology,10.0
+manager,2,64.0,CA,3.5,medium,Health Care,24.0
+data analyst,2,162.0,CA,4.0,large,Information Technology,38.0
+data scientist,2,137.0,NY,3.9,large,Biotech & Pharmaceuticals,107.0
+data engineer,2,98.0,TN,3.0,large,Retail,62.0
+data scientist,2,115.0,NY,3.7,large,Insurance,157.0
+data scientist,2,133.5,CO,3.5,large,Biotech & Pharmaceuticals,150.0
+data engineer,2,99.0,CO,4.0,medium,Insurance,105.0
+other,2,54.0,WI,3.3,medium,Manufacturing,56.0
+data engineer,2,109.0,TN,3.2,medium,Health Care,16.0
+data engineer,2,109.0,MD,3.4,medium,Information Technology,21.0
+data scientist,2,139.5,MA,4.4,medium,Information Technology,36.0
+director,3,254.0,IL,3.3,large,Insurance,108.0
+machine learning engineer,2,125.0,NY,3.2,medium,Information Technology,45.0
+data analyst,2,106.5,MA,3.8,large,Biotech & Pharmaceuticals,24.0
+data analyst,2,73.0,CA,2.9,medium,Biotech & Pharmaceuticals,8.0
+other,3,81.0,MD,2.7,medium,Biotech & Pharmaceuticals,59.0
+other,2,56.5,DE,3.6,medium,Health Care,85.0
+other,2,99.5,NC,3.1,large,Manufacturing,145.0
+data analyst,1,45.5,OH,3.3,medium,Insurance,31.0
+data analyst,1,54.0,MA,3.7,large,Insurance,168.0
+data engineer,2,122.5,IN,4.5,small,Business Services,24.0
+data analyst,2,37.5,FL,3.0,medium,Information Technology,43.0
+data analyst,2,53.5,NY,3.8,medium,other,18.0
+data scientist,2,140.0,IL,3.9,large,Finance,52.0
+other,2,77.5,VA,3.2,large,Government,62.0
+other,2,55.0,MA,3.3,small,"Construction, Repair & Maintenance",44.0
+other,2,117.5,NC,3.1,large,Manufacturing,145.0
+data analyst,2,70.5,CA,2.4,medium,Biotech & Pharmaceuticals,14.0
+data analyst,1,70.0,NY,2.9,medium,Biotech & Pharmaceuticals,5.0
+manager,2,61.5,CA,4.8,small,Information Technology,9.0
+other,2,80.0,GA,2.9,medium,Biotech & Pharmaceuticals,5.0
+data scientist,2,79.5,GA,4.7,small,Information Technology,17.0
+data scientist,2,168.0,CA,4.7,medium,Information Technology,6.0
+data engineer,2,90.0,MA,3.4,medium,Insurance,32.0
+data analyst,2,120.0,MA,-1.0,N/A,other,50.0303468208092
+data analyst,2,138.5,CA,3.9,small,Information Technology,12.0
+data analyst,3,111.5,PA,3.6,large,Biotech & Pharmaceuticals,3.0
+manager,2,68.5,MA,3.6,large,Insurance,169.0
+other,2,84.5,MA,3.9,large,Biotech & Pharmaceuticals,190.0
+data engineer,2,102.5,TN,4.4,medium,Information Technology,14.0
+other,2,73.5,PA,2.6,medium,Education,36.0
+research scientist,2,93.5,OH,3.6,medium,Government,53.0
+manager,2,127.5,PA,3.2,small,Business Services,50.0303468208092
+data analyst,2,72.0,UT,4.2,large,other,50.0303468208092
+other,2,129.5,MA,3.6,large,Insurance,169.0
+data analyst,2,47.0,UT,3.1,medium,Manufacturing,43.0
+data engineer,2,65.0,AL,3.8,medium,Consumer Services,6.0
+data analyst,2,60.0,WI,3.8,medium,Finance,150.0
+data scientist,2,167.5,NY,4.0,large,Biotech & Pharmaceuticals,171.0
+data analyst,2,65.0,NY,3.8,medium,other,18.0
+data analyst,2,94.0,VA,4.0,medium,Information Technology,8.0
+data analyst,2,87.5,NY,1.9,medium,Retail,10.0
+data engineer,2,97.0,VA,4.0,medium,Information Technology,8.0
+data engineer,2,112.5,NC,4.3,large,Information Technology,30.0
+other,2,91.5,MA,3.6,large,Insurance,169.0
+other,2,51.5,IN,3.3,large,Insurance,108.0
+data scientist,2,114.5,MA,3.8,large,Biotech & Pharmaceuticals,24.0
+data scientist,2,115.0,NY,4.3,medium,Business Services,9.0
+manager,2,74.0,PA,3.2,small,Business Services,50.0303468208092
+data analyst,1,51.0,CA,4.7,small,Business Services,48.0
+data engineer,2,100.0,AZ,3.4,medium,Health Care,39.0
+data scientist,2,121.0,MA,3.8,large,Biotech & Pharmaceuticals,24.0
+data analyst,2,121.5,CA,4.5,medium,Information Technology,14.0
+other,1,62.5,MA,3.1,large,Finance,164.0
+other,2,117.5,MA,-1.0,N/A,other,50.0303468208092
+data scientist,2,122.0,FL,3.9,medium,Information Technology,8.0
+data engineer,2,85.0,VA,4.4,small,Information Technology,16.0
+data engineer,2,60.5,AZ,3.4,medium,Information Technology,18.0
+data scientist,2,180.0,CA,3.9,small,Finance,11.0
+other,2,70.5,MO,4.7,medium,Finance,18.0
+data engineer,2,118.5,VA,3.3,medium,Aerospace & Defense,3.0
+data analyst,2,66.5,IL,3.9,medium,Information Technology,25.0
+data scientist,2,107.5,MA,3.4,medium,Business Services,77.0
+data engineer,2,138.5,TX,4.7,small,Business Services,10.0
+other,3,81.0,MD,2.7,medium,Biotech & Pharmaceuticals,59.0
+data engineer,2,58.5,IL,3.8,medium,Insurance,95.0
+data engineer,2,107.5,IL,3.4,medium,other,15.0
+other,2,120.5,MA,3.8,medium,Biotech & Pharmaceuticals,12.0
+manager,2,63.5,CA,3.9,medium,Information Technology,13.0
+data analyst,2,103.5,KY,3.1,large,Manufacturing,145.0
+data scientist,2,107.0,CA,4.1,large,Information Technology,39.0
+data engineer,2,105.5,VA,3.7,large,Aerospace & Defense,50.0303468208092
+data engineer,2,83.0,CA,2.8,medium,Insurance,48.0
+data engineer,2,162.0,CA,4.0,medium,Information Technology,13.0
+product analyst,2,68.5,CA,3.5,medium,Information Technology,51.0
+data scientist,2,110.5,OH,3.4,large,Insurance,42.0
+data engineer,2,115.5,IA,3.7,medium,Insurance,50.0303468208092
+research scientist,1,87.5,CA,3.0,medium,Biotech & Pharmaceuticals,26.0
+data scientist,2,80.5,WA,3.8,medium,"Oil, Gas, Energy & Utilities",55.0
+data analyst,2,43.0,IA,4.6,medium,Finance,28.0
+director,3,140.0,MA,4.4,medium,Biotech & Pharmaceuticals,17.0
+data analyst,3,172.0,MA,4.0,large,Biotech & Pharmaceuticals,171.0
+other,2,120.0,MA,-1.0,N/A,other,50.0303468208092
+data analyst,2,66.5,PA,3.0,large,Insurance,37.0
+other,2,100.0,CA,3.0,medium,Biotech & Pharmaceuticals,26.0
+data engineer,2,94.5,CA,4.7,small,Business Services,14.0
+manager,2,221.5,CA,4.2,medium,Health Care,9.0
+data scientist,2,119.0,WA,3.8,medium,"Oil, Gas, Energy & Utilities",55.0
+data engineer,2,95.5,IL,3.5,medium,Business Services,25.0
+director,3,194.5,IL,3.3,large,Insurance,108.0
+other,2,51.5,NE,3.2,large,Health Care,24.0
+data analyst,2,27.5,TN,2.7,large,Finance,20.0
+data analyst,2,173.0,NJ,3.3,medium,Finance,47.0
+data scientist,2,105.5,TX,3.7,medium,Education,50.0303468208092
+research scientist,2,71.5,TX,3.9,medium,Business Services,73.0
+product analyst,2,74.0,NC,3.1,large,Manufacturing,145.0
+data analyst,2,62.5,AL,3.7,large,Aerospace & Defense,98.0
+research scientist,2,65.5,NC,4.3,medium,Business Services,62.0
+data scientist,2,85.0,PA,3.8,large,Retail,72.0
+data scientist,3,147.5,MD,3.9,large,Biotech & Pharmaceuticals,107.0
+director,3,161.5,NJ,3.6,medium,Business Services,31.0
+data engineer,2,81.0,VA,3.7,large,Health Care,121.0
+data analyst,2,72.5,PA,2.1,medium,Biotech & Pharmaceuticals,17.0
+data engineer,2,139.0,CA,3.9,small,Information Technology,12.0
+data engineer,2,136.5,CA,3.9,medium,Information Technology,13.0
+data analyst,2,83.0,NY,3.2,medium,Information Technology,12.0
+research scientist,2,121.0,MA,4.6,small,Business Services,29.0
+data scientist,1,74.5,NY,3.8,medium,other,18.0
+data analyst,2,85.5,CA,2.2,medium,Retail,18.0
+data analyst,2,80.5,NC,3.1,large,Manufacturing,145.0
+research scientist,3,167.5,MA,4.6,small,Business Services,29.0
+research scientist,2,107.5,PA,2.6,medium,Education,36.0
+data analyst,2,44.5,WA,3.4,medium,other,41.0
+data analyst,2,107.5,MD,3.3,medium,Health Care,131.0
+research scientist,3,132.5,MA,-1.0,N/A,other,50.0303468208092
+data analyst,2,69.5,PA,3.7,medium,Health Care,26.0
+other,2,98.5,CA,3.5,large,Information Technology,50.0
+other,2,80.5,MD,2.7,medium,Biotech & Pharmaceuticals,59.0
+other,2,76.5,MA,3.8,small,Biotech & Pharmaceuticals,12.0
+software engineer,3,99.0,MD,3.7,large,Aerospace & Defense,98.0
+manager,2,96.5,MA,3.8,medium,Biotech & Pharmaceuticals,12.0
+director,3,53.0,MA,3.3,large,Insurance,108.0
+data engineer,2,103.0,CA,2.7,small,Information Technology,9.0
+data scientist,2,139.5,CA,3.8,medium,Finance,14.0
+data scientist,2,67.0,WA,3.8,medium,"Oil, Gas, Energy & Utilities",55.0
+data analyst,2,62.5,CT,3.0,large,Information Technology,39.0
+other,2,92.0,MD,3.9,large,Biotech & Pharmaceuticals,107.0
+data analyst,2,66.0,NY,3.6,small,Health Care,40.0
+data engineer,2,94.5,CA,3.5,medium,Health Care,7.0
+data scientist,2,114.0,NJ,3.6,medium,Business Services,31.0
+data scientist,2,75.5,NY,4.2,small,Education,8.0
+data scientist,2,96.0,MO,3.5,small,Education,50.0303468208092
+machine learning engineer,2,87.0,VA,4.0,medium,Aerospace & Defense,66.0
+data scientist,2,86.0,MD,3.7,medium,Information Technology,14.0
+data scientist,2,116.5,CA,4.4,small,Information Technology,8.0
+other,2,154.5,MA,3.5,medium,Biotech & Pharmaceuticals,10.0
+data analyst,2,48.5,CA,3.6,medium,other,34.0
+machine learning engineer,2,87.0,KS,3.7,medium,Finance,47.0
+data engineer,2,80.0,TX,3.4,medium,Information Technology,18.0
+other,2,44.5,TX,4.0,medium,Health Care,43.0
+data scientist,3,173.0,CA,3.7,large,Aerospace & Defense,81.0
+other,2,52.5,IL,2.4,medium,Manufacturing,50.0303468208092
+data engineer,2,68.5,AZ,3.5,medium,Biotech & Pharmaceuticals,23.0
+other,3,95.0,MD,3.9,large,Biotech & Pharmaceuticals,107.0
+data scientist,2,69.5,MA,3.2,large,Government,62.0
+data scientist,2,107.0,OH,4.4,medium,other,135.0
+data scientist,2,112.0,VA,3.9,medium,Information Technology,10.0
+data scientist,2,96.5,DC,3.4,small,Business Services,23.0
+other,2,111.5,CA,2.1,medium,Biotech & Pharmaceuticals,50.0303468208092
+data engineer,3,154.5,MA,3.7,large,Biotech & Pharmaceuticals,239.0
+data scientist,2,95.0,NY,3.4,medium,Health Care,9.0
+data scientist,2,97.5,NY,4.0,medium,Consumer Services,13.0
+data scientist,2,128.5,IL,4.4,medium,Business Services,12.0
+research scientist,2,124.0,PA,2.6,medium,Education,36.0
+data scientist,3,194.0,CA,3.2,medium,Information Technology,14.0
+other,2,65.0,CO,3.7,medium,Health Care,54.0
+data analyst,2,50.0,UT,4.2,large,other,50.0303468208092
+data scientist,2,104.5,NY,3.5,medium,Business Services,15.0
+data scientist,2,69.5,AZ,4.3,medium,Information Technology,51.0
+data scientist,2,121.0,CA,2.6,large,Education,23.0
+data engineer,2,85.5,NC,4.2,medium,Information Technology,12.0
+data engineer,2,113.0,CA,3.1,medium,other,23.0
+data scientist,2,103.0,CA,3.8,medium,Manufacturing,15.0
+other,2,90.5,MA,3.9,large,Biotech & Pharmaceuticals,190.0
+data scientist,2,153.0,CA,4.3,small,Information Technology,12.0
+data scientist,1,106.5,VA,3.2,large,Government,62.0
+data scientist,2,130.0,MI,5.0,small,Information Technology,9.0
+data analyst,2,123.5,CA,3.3,medium,Business Services,32.0
+other,2,86.5,NY,4.3,medium,Information Technology,21.0
+manager,2,64.0,CA,3.5,medium,Health Care,24.0
+data analyst,2,47.0,NY,3.9,medium,Information Technology,10.0
+data analyst,2,162.0,CA,4.0,large,Information Technology,38.0
+data scientist,2,140.0,MD,3.9,large,Biotech & Pharmaceuticals,107.0
+data scientist,2,89.0,WA,3.4,small,Information Technology,50.0303468208092
+data engineer,2,98.0,TN,3.0,large,Retail,62.0
+data scientist,2,137.0,NY,3.9,large,Biotech & Pharmaceuticals,107.0
+data engineer,2,99.0,CO,4.0,medium,Insurance,105.0
+other,2,54.0,WI,3.3,medium,Manufacturing,56.0
+data engineer,2,109.0,TN,3.2,medium,Health Care,16.0
+data engineer,2,109.0,MD,3.4,medium,Information Technology,21.0
+data scientist,2,139.5,MA,4.4,medium,Information Technology,36.0
+director,3,254.0,IL,3.3,large,Insurance,108.0
+machine learning engineer,2,125.0,NY,3.2,medium,Information Technology,45.0
+data analyst,2,106.5,MA,3.8,large,Biotech & Pharmaceuticals,24.0
+other,2,56.5,DE,3.6,medium,Health Care,85.0
+data analyst,2,73.0,CA,2.9,medium,Biotech & Pharmaceuticals,8.0
+other,3,81.0,MD,2.7,medium,Biotech & Pharmaceuticals,59.0
+data scientist,2,128.5,PA,3.2,small,Business Services,50.0303468208092
+other,2,99.5,NC,3.1,large,Manufacturing,145.0
+other,2,92.0,CA,4.0,medium,Biotech & Pharmaceuticals,14.0
+data analyst,1,45.5,OH,3.3,medium,Insurance,31.0
+data engineer,2,122.5,IN,4.5,small,Business Services,24.0
+data analyst,2,37.5,FL,3.0,medium,Information Technology,43.0
+data analyst,1,54.0,MA,3.7,large,Insurance,168.0
+data analyst,2,53.5,NY,3.8,medium,other,18.0
+data scientist,2,140.0,IL,3.9,large,Finance,52.0
+other,2,77.5,VA,3.2,large,Government,62.0
+other,2,55.0,MA,3.3,small,"Construction, Repair & Maintenance",44.0
+other,2,117.5,NC,3.1,large,Manufacturing,145.0
+data analyst,2,70.5,CA,2.4,medium,Biotech & Pharmaceuticals,14.0
+manager,2,61.5,CA,4.8,small,Information Technology,9.0
+other,2,80.0,GA,2.9,medium,Biotech & Pharmaceuticals,5.0
+data analyst,1,70.0,NY,2.9,medium,Biotech & Pharmaceuticals,5.0
+data analyst,2,120.0,MA,-1.0,N/A,other,50.0303468208092
+data engineer,2,90.0,MA,3.4,medium,Insurance,32.0
+machine learning engineer,2,111.0,CA,4.1,small,Education,13.0
+data analyst,2,138.5,CA,3.9,small,Information Technology,12.0
+manager,2,68.5,MA,3.6,large,Insurance,169.0
+data engineer,2,87.5,CA,3.9,medium,Information Technology,9.0
+data analyst,3,111.5,PA,3.6,large,Biotech & Pharmaceuticals,3.0
+other,2,84.5,MA,3.9,large,Biotech & Pharmaceuticals,190.0
+data engineer,2,102.5,TN,4.4,medium,Information Technology,14.0
+other,2,73.5,PA,2.6,medium,Education,36.0
+manager,2,127.5,PA,3.2,small,Business Services,50.0303468208092
+research scientist,2,93.5,OH,3.6,medium,Government,53.0
