@@ -40,11 +40,11 @@ data scientist,2,110.0,MA,4.7,2.0,Aerospace & Defense,10.0,other,Northeast
 data scientist,2,147.5,CA,3.5,3.0,Biotech & Pharmaceuticals,150.0,other,West
 data engineer,2,106.0,NY,3.5,2.0,Insurance,35.0,other,Northeast
 data analyst,2,88.0,CA,4.2,2.0,Information Technology,12.0,San Francisco,West
-data engineer,2,98.5,MA,3.6,1.0,-1,50.0303468208092,Marlborough,Northeast
+data engineer,2,98.5,MA,3.6,1.0,other,50.0303468208092,Marlborough,Northeast
 data scientist,2,142.5,CA,4.2,1.0,Information Technology,10.0,San Francisco,West
 other,2,82.5,NJ,3.4,3.0,Manufacturing,5.0,other,Northeast
 data scientist,2,130.0,IL,4.3,3.0,other,27.0,Chicago,Midwest
-data scientist,2,155.0,DC,5.0,,Information Technology,50.0303468208092,DC,South
+data scientist,2,155.0,DC,5.0,3.0,Information Technology,50.0303468208092,DC,South
 data scientist,2,184.5,WA,3.7,3.0,Information Technology,62.0,other,West
 data analyst,1,29.5,CO,3.1,3.0,Information Technology,34.0,other,West
 other,2,86.5,OH,4.7,2.0,Aerospace & Defense,21.0,other,Midwest
@@ -299,7 +299,7 @@ data engineer,2,92.0,VA,4.1,3.0,Business Services,52.0,Herndon,South
 data scientist,2,121.0,MA,3.8,3.0,Biotech & Pharmaceuticals,24.0,Boston,Northeast
 data engineer,3,162.5,CA,4.0,3.0,Information Technology,38.0,San Francisco,West
 data analyst,2,60.0,TX,3.9,3.0,Business Services,73.0,other,South
-other,2,87.5,CA,3.688372093023259,2.0,-1,50.0303468208092,San Francisco,West
+other,2,87.5,CA,3.688372093023259,2.0,other,50.0303468208092,San Francisco,West
 data engineer,2,90.5,IN,4.4,1.0,Information Technology,5.0,Indianapolis,Midwest
 data scientist,2,114.5,MA,3.8,3.0,Biotech & Pharmaceuticals,24.0,Boston,Northeast
 data scientist,2,121.0,CA,3.8,3.0,other,24.0,other,West
@@ -362,17 +362,17 @@ data analyst,1,45.5,OH,3.3,2.0,Insurance,31.0,other,Midwest
 data engineer,2,122.5,IN,4.5,1.0,Business Services,24.0,Indianapolis,Midwest
 data scientist,2,140.0,IL,3.9,3.0,Finance,52.0,Chicago,Midwest
 other,2,77.5,VA,3.2,3.0,Government,62.0,other,South
-other,2,55.0,MA,3.3,1.0,"Construction, Repair & Maintenance",44.0,Boston,Northeast
+other,2,55.0,MA,3.3,1.0,other,44.0,Boston,Northeast
 other,2,117.5,NC,3.1,3.0,Manufacturing,145.0,Winston-Salem,South
 data analyst,2,70.5,CA,2.4,2.0,Biotech & Pharmaceuticals,14.0,San Diego,West
 manager,2,61.5,CA,4.8,1.0,Information Technology,9.0,San Francisco,West
 data analyst,1,70.0,NY,2.9,3.0,Biotech & Pharmaceuticals,5.0,other,Northeast
 other,2,80.0,GA,2.9,3.0,Biotech & Pharmaceuticals,5.0,other,South
 data engineer,2,90.0,MA,3.4,3.0,Insurance,32.0,other,Northeast
-data analyst,2,120.0,MA,3.688372093023259,,-1,50.0303468208092,Boston,Northeast
+data analyst,2,120.0,MA,3.688372093023259,3.0,other,50.0303468208092,Boston,Northeast
 other,2,73.5,PA,2.6,2.0,Education,36.0,Pittsburgh,Northeast
 data scientist,2,91.0,FL,3.8,2.0,Business Services,36.0,other,South
-data scientist,2,155.0,DC,5.0,,Information Technology,50.0303468208092,DC,South
+data scientist,2,155.0,DC,5.0,3.0,Information Technology,50.0303468208092,DC,South
 other,2,129.5,MA,3.6,3.0,Insurance,169.0,Boston,Northeast
 data scientist,2,167.5,NY,4.0,3.0,Biotech & Pharmaceuticals,171.0,New York,Northeast
 data analyst,2,60.0,WI,3.8,3.0,Finance,150.0,other,Midwest
@@ -403,7 +403,7 @@ data engineer,2,115.5,IA,3.7,2.0,Insurance,50.0303468208092,other,Midwest
 data scientist,2,80.5,WA,3.8,3.0,"Oil, Gas, Energy & Utilities",55.0,Richland,West
 data analyst,2,43.0,IA,4.6,2.0,Finance,28.0,other,Midwest
 director,3,140.0,MA,4.4,2.0,Biotech & Pharmaceuticals,17.0,Boston,Northeast
-other,2,120.0,MA,3.688372093023259,,-1,50.0303468208092,Boston,Northeast
+other,2,120.0,MA,3.688372093023259,3.0,other,50.0303468208092,Boston,Northeast
 data analyst,2,66.5,PA,3.0,3.0,Insurance,37.0,Philadelphia,Northeast
 data engineer,2,94.5,CA,4.7,1.0,Business Services,14.0,San Francisco,West
 data scientist,2,119.0,WA,3.8,3.0,"Oil, Gas, Energy & Utilities",55.0,Seattle,West
@@ -455,9 +455,9 @@ data scientist,2,113.5,CA,3.9,1.0,Information Technology,50.0303468208092,San Fr
 data scientist,2,101.5,VA,3.4,3.0,Aerospace & Defense,51.0,Springfield,South
 data analyst,2,73.0,NY,3.6,3.0,Manufacturing,85.0,New York,Northeast
 data scientist,2,80.5,NY,3.5,3.0,Business Services,4.0,New York,Northeast
-data scientist,2,110.5,NY,3.688372093023259,,-1,50.0303468208092,New York,Northeast
+data scientist,2,110.5,NY,3.688372093023259,3.0,other,50.0303468208092,New York,Northeast
 data engineer,3,114.0,CA,2.9,1.0,Business Services,22.0,Bay Area,West
-data scientist,2,139.5,CA,3.5,1.0,Consumer Services,50.0303468208092,other,West
+data scientist,2,139.5,CA,3.5,1.0,other,50.0303468208092,other,West
 data scientist,2,145.5,NY,4.8,1.0,Information Technology,9.0,New York,Northeast
 data scientist,2,87.0,NY,4.0,2.0,Finance,13.0,New York,Northeast
 data scientist,2,100.5,MA,4.2,2.0,Finance,135.0,other,Northeast
@@ -501,7 +501,7 @@ other,3,95.0,MD,3.9,3.0,Biotech & Pharmaceuticals,107.0,Gaithersburg,South
 data scientist,2,69.5,MA,3.2,3.0,Government,62.0,other,Northeast
 data engineer,2,64.5,NY,3.2,2.0,Business Services,17.0,New York,Northeast
 other,2,111.5,CA,2.1,2.0,Biotech & Pharmaceuticals,50.0303468208092,other,West
-data scientist,2,97.5,NY,4.0,2.0,Consumer Services,13.0,New York,Northeast
+data scientist,2,97.5,NY,4.0,2.0,other,13.0,New York,Northeast
 data engineer,3,154.5,MA,3.7,3.0,Biotech & Pharmaceuticals,239.0,Boston,Northeast
 research scientist,2,124.0,PA,2.6,2.0,Education,36.0,Pittsburgh,Northeast
 data scientist,2,95.0,NY,3.4,2.0,Health Care,9.0,New York,Northeast
@@ -541,7 +541,7 @@ data analyst,2,37.5,FL,3.0,3.0,Information Technology,43.0,other,South
 data analyst,2,53.5,NY,3.8,3.0,other,18.0,New York,Northeast
 data scientist,2,140.0,IL,3.9,3.0,Finance,52.0,Chicago,Midwest
 other,2,77.5,VA,3.2,3.0,Government,62.0,other,South
-other,2,55.0,MA,3.3,1.0,"Construction, Repair & Maintenance",44.0,Boston,Northeast
+other,2,55.0,MA,3.3,1.0,other,44.0,Boston,Northeast
 other,2,117.5,NC,3.1,3.0,Manufacturing,145.0,Winston-Salem,South
 data analyst,2,70.5,CA,2.4,2.0,Biotech & Pharmaceuticals,14.0,San Diego,West
 data analyst,1,70.0,NY,2.9,3.0,Biotech & Pharmaceuticals,5.0,other,Northeast
@@ -550,7 +550,7 @@ other,2,80.0,GA,2.9,3.0,Biotech & Pharmaceuticals,5.0,other,South
 data scientist,2,79.5,GA,4.7,1.0,Information Technology,17.0,other,South
 data scientist,2,168.0,CA,4.7,2.0,Information Technology,6.0,Bay Area,West
 data engineer,2,90.0,MA,3.4,3.0,Insurance,32.0,other,Northeast
-data analyst,2,120.0,MA,3.688372093023259,,-1,50.0303468208092,Boston,Northeast
+data analyst,2,120.0,MA,3.688372093023259,3.0,other,50.0303468208092,Boston,Northeast
 data analyst,2,138.5,CA,3.9,1.0,Information Technology,12.0,San Francisco,West
 data analyst,3,111.5,PA,3.6,3.0,Biotech & Pharmaceuticals,3.0,other,Northeast
 manager,2,68.5,MA,3.6,3.0,Insurance,169.0,Boston,Northeast
@@ -562,7 +562,7 @@ manager,2,127.5,PA,3.2,1.0,Business Services,50.0303468208092,other,Northeast
 data analyst,2,72.0,UT,4.2,3.0,other,50.0303468208092,Salt Lake City,West
 other,2,129.5,MA,3.6,3.0,Insurance,169.0,Boston,Northeast
 data analyst,2,47.0,UT,3.1,3.0,Manufacturing,43.0,other,West
-data engineer,2,65.0,AL,3.8,2.0,Consumer Services,6.0,other,South
+data engineer,2,65.0,AL,3.8,2.0,other,6.0,other,South
 data analyst,2,60.0,WI,3.8,3.0,Finance,150.0,other,Midwest
 data scientist,2,167.5,NY,4.0,3.0,Biotech & Pharmaceuticals,171.0,New York,Northeast
 data analyst,2,65.0,NY,3.8,3.0,other,18.0,New York,Northeast
@@ -580,7 +580,7 @@ data engineer,2,100.0,AZ,3.4,2.0,Health Care,39.0,other,West
 data scientist,2,121.0,MA,3.8,3.0,Biotech & Pharmaceuticals,24.0,Boston,Northeast
 data analyst,2,121.5,CA,4.5,2.0,Information Technology,14.0,San Francisco,West
 other,1,62.5,MA,3.1,3.0,Finance,164.0,Boston,Northeast
-other,2,117.5,MA,3.688372093023259,,-1,50.0303468208092,Boston,Northeast
+other,2,117.5,MA,3.688372093023259,3.0,other,50.0303468208092,Boston,Northeast
 data scientist,2,122.0,FL,3.9,2.0,Information Technology,8.0,other,South
 data engineer,2,85.0,VA,4.4,1.0,Information Technology,16.0,Chantilly,South
 data engineer,2,60.5,AZ,3.4,2.0,Information Technology,18.0,other,West
@@ -608,7 +608,7 @@ data scientist,2,80.5,WA,3.8,3.0,"Oil, Gas, Energy & Utilities",55.0,Richland,We
 data analyst,2,43.0,IA,4.6,2.0,Finance,28.0,other,Midwest
 director,3,140.0,MA,4.4,2.0,Biotech & Pharmaceuticals,17.0,Boston,Northeast
 data analyst,3,172.0,MA,4.0,3.0,Biotech & Pharmaceuticals,171.0,Boston,Northeast
-other,2,120.0,MA,3.688372093023259,,-1,50.0303468208092,Boston,Northeast
+other,2,120.0,MA,3.688372093023259,3.0,other,50.0303468208092,Boston,Northeast
 data analyst,2,66.5,PA,3.0,3.0,Insurance,37.0,Philadelphia,Northeast
 other,2,100.0,CA,3.0,2.0,Biotech & Pharmaceuticals,26.0,other,West
 data engineer,2,94.5,CA,4.7,1.0,Business Services,14.0,San Francisco,West
@@ -640,7 +640,7 @@ research scientist,3,167.5,MA,4.6,1.0,Business Services,29.0,Boston,Northeast
 research scientist,2,107.5,PA,2.6,2.0,Education,36.0,Pittsburgh,Northeast
 data analyst,2,44.5,WA,3.4,2.0,other,41.0,Seattle,West
 data analyst,2,107.5,MD,3.3,3.0,Health Care,131.0,other,South
-research scientist,3,132.5,MA,3.688372093023259,,-1,50.0303468208092,Boston,Northeast
+research scientist,3,132.5,MA,3.688372093023259,3.0,other,50.0303468208092,Boston,Northeast
 data analyst,2,69.5,PA,3.7,2.0,Health Care,26.0,Philadelphia,Northeast
 other,2,98.5,CA,3.5,3.0,Information Technology,50.0,other,West
 other,2,80.5,MD,2.7,2.0,Biotech & Pharmaceuticals,59.0,Rockville,South
@@ -677,7 +677,7 @@ data scientist,2,96.5,DC,3.4,1.0,Business Services,23.0,DC,South
 other,2,111.5,CA,2.1,2.0,Biotech & Pharmaceuticals,50.0303468208092,other,West
 data engineer,3,154.5,MA,3.7,3.0,Biotech & Pharmaceuticals,239.0,Boston,Northeast
 data scientist,2,95.0,NY,3.4,2.0,Health Care,9.0,New York,Northeast
-data scientist,2,97.5,NY,4.0,2.0,Consumer Services,13.0,New York,Northeast
+data scientist,2,97.5,NY,4.0,2.0,other,13.0,New York,Northeast
 data scientist,2,128.5,IL,4.4,2.0,Business Services,12.0,Chicago,Midwest
 research scientist,2,124.0,PA,2.6,2.0,Education,36.0,Pittsburgh,Northeast
 data scientist,3,194.0,CA,3.2,2.0,Information Technology,14.0,San Francisco,West
@@ -723,13 +723,13 @@ data analyst,1,54.0,MA,3.7,3.0,Insurance,168.0,Worcester,Northeast
 data analyst,2,53.5,NY,3.8,3.0,other,18.0,New York,Northeast
 data scientist,2,140.0,IL,3.9,3.0,Finance,52.0,Chicago,Midwest
 other,2,77.5,VA,3.2,3.0,Government,62.0,other,South
-other,2,55.0,MA,3.3,1.0,"Construction, Repair & Maintenance",44.0,Boston,Northeast
+other,2,55.0,MA,3.3,1.0,other,44.0,Boston,Northeast
 other,2,117.5,NC,3.1,3.0,Manufacturing,145.0,Winston-Salem,South
 data analyst,2,70.5,CA,2.4,2.0,Biotech & Pharmaceuticals,14.0,San Diego,West
 manager,2,61.5,CA,4.8,1.0,Information Technology,9.0,San Francisco,West
 other,2,80.0,GA,2.9,3.0,Biotech & Pharmaceuticals,5.0,other,South
 data analyst,1,70.0,NY,2.9,3.0,Biotech & Pharmaceuticals,5.0,other,Northeast
-data analyst,2,120.0,MA,3.688372093023259,,-1,50.0303468208092,Boston,Northeast
+data analyst,2,120.0,MA,3.688372093023259,3.0,other,50.0303468208092,Boston,Northeast
 data engineer,2,90.0,MA,3.4,3.0,Insurance,32.0,other,Northeast
 machine learning engineer,2,111.0,CA,4.1,1.0,Education,13.0,Bay Area,West
 data analyst,2,138.5,CA,3.9,1.0,Information Technology,12.0,San Francisco,West
