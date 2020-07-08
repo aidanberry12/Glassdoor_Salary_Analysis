@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html >
+<head>
+  <meta charset="UTF-8">
+  <title>Salary Estimator</title>
+  <link href='https://fonts.googleapis.com/css?family=Pacifico' rel='stylesheet' type='text/css'>
+  <link href='https://fonts.googleapis.com/css?family=Arimo' rel='stylesheet' type='text/css'>
+  <link href='https://fonts.googleapis.com/css?family=Hind:300' rel='stylesheet' type='text/css'>
+  <link href='https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300' rel='stylesheet' type='text/css'>
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+  <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="static/js/custom.js"></script>
+
+</head>
+
+<body style="background: #000;">
+ <div class="login">
+	<h1>Salary Estimator</h1>
+
+     <!-- Main Input For Receiving Query to our ML -->
+    <form action="{{ url_for('predict')}}"method="post">
+      <input type="number" name="seniority" placeholder="seniority" required="required" />
+      <input type="number" name="company_rating" placeholder="company rating" required="required" />
+		  <input type="number" name="company_size" placeholder="company size" required="required" />
+      <input type="number" name="company_age" placeholder="company age" required="required" />
+      <label for="title">Choose the job title that closely represents your title:</label>
+        <select name="title" id="title", placeholder="job title">
+          <option value="role_data analyst">data analyst</option>
+          <option value="role_data engineer">data engineer</option>
+          <option value="role_data scientist">data scientist</option>
+          <option value="role_machine learning engineer">machine learning engineer</option>
+          <option value="role_manager">manager</option>
+          <option value="role_product analyst">product analyst</option>
+          <option value="role_research scientist">research scientist</option>
+          <option value="role_director">director</option>
+          <option value="role_software engineer">software engineer</option>
+          <option value="role_other">other</option>
+        </select>
+        <br>
+        <select name="sector" id="sector", placeholder="job sector">
+          <option value="sector_Aerospace & Defense">aerospace & defense</option>
+          <option value="sector_Biotech & Pharmaceuticals">biotech & pharmaceuticals</option>
+          <option value="sector_Business Services">business services</option>
+          <option value="sector_Education">education</option>
+          <option value="sector_Finance">finance</option>
+          <option value="sector_Government">government</option>
+          <option value="sector_Health Care">health care</option>
+          <option value="sector_Information Technology">information technology</option>
+          <option value="sector_Insurance">insurance</option>
+          <option value="sector_Manufacturing">manufacturing</option>
+          <option value="sector_Oil, Gas, Energy & Utilities">oil, gas, energy, and utilities</option>
+          <option value="sector_Retail">retail</option>
+          <option value="sector_other">other</option>
+        </select>
+        <br>
+        <select name="region" id="region", placeholder="US geographic region">
+          <option value="region_Midwest">Midwest</option>
+          <option value="region_Northeast">Northeast</option>
+          <option value="region_South">South</option>
+          <option value="region_West">West</option>
+        </select>
+        <br>
+
+      <button type="submit" class="btn btn-primary btn-block btn-large">Predict Salary</button>
+    </form>
+
+   <br>
+   <br>
+   {{ prediction_text }}
+
+ </div>
+</body>
+</html>
