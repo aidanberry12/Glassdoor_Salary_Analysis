@@ -7,7 +7,8 @@
   <link href='https://fonts.googleapis.com/css?family=Arimo' rel='stylesheet' type='text/css'>
   <link href='https://fonts.googleapis.com/css?family=Hind:300' rel='stylesheet' type='text/css'>
   <link href='https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300' rel='stylesheet' type='text/css'>
-  <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+  <!--<link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">-->
+  <link rel="stylesheet" href="/../static/css/style.css">
   <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
   <script src="static/js/custom.js"></script>
 
@@ -15,16 +16,27 @@
 
 <body style="background: #000;">
  <div class="login">
-	<h1>Salary Estimator</h1>
+   <h1>Salary Estimator</h1>
 
      <!-- Main Input For Receiving Query to our ML -->
-    <form action="{{ url_for('predict')}}"method="post">
-      <input type="number" name="seniority" placeholder="seniority" required="required" />
-      <input type="number" name="company_rating" placeholder="company rating" required="required" />
-		  <input type="number" name="company_size" placeholder="company size" required="required" />
-      <input type="number" name="company_age" placeholder="company age" required="required" />
-      <label for="title">Choose the job title that closely represents your title:</label>
-        <select name="title" id="title", placeholder="job title">
+     <form action="{{ url_for('predict')}}"method="post">
+       <!-- <input type="number" name="seniority" placeholder="seniority" required="required" /> -->
+       <label>Seniority: <select name="seniority" id="seniority", placeholder="seniority">
+         <option value=1>entry level</option>
+         <option value=2>senior level</option>
+         <option value=3>high seniority (director, principal, staff, etc.)</option>
+       </select></label>
+       <br>
+
+       <!-- <input type="number" name="company_size" placeholder="company size" required="required" /> -->
+       <label>Company Size:<select name="company_size" id="company_size", placeholder="company size">
+          <option value=1>1-200 employees (small)</option>
+          <option value=2>201-1000 employees (medium)</option>
+          <option value=3>1001-10000+ employees (large)</option>
+       </select></label>
+       <br>
+
+       <label>Job Title: <select name="title" id="title", placeholder="job title">
           <option value="role_data analyst">data analyst</option>
           <option value="role_data engineer">data engineer</option>
           <option value="role_data scientist">data scientist</option>
@@ -35,9 +47,10 @@
           <option value="role_director">director</option>
           <option value="role_software engineer">software engineer</option>
           <option value="role_other">other</option>
-        </select>
-        <br>
-        <select name="sector" id="sector", placeholder="job sector">
+       </select></label>
+       <br>
+
+       <label>Job Sector: <select name="sector" id="sector", placeholder="job sector">
           <option value="sector_Aerospace & Defense">aerospace & defense</option>
           <option value="sector_Biotech & Pharmaceuticals">biotech & pharmaceuticals</option>
           <option value="sector_Business Services">business services</option>
@@ -51,23 +64,30 @@
           <option value="sector_Oil, Gas, Energy & Utilities">oil, gas, energy, and utilities</option>
           <option value="sector_Retail">retail</option>
           <option value="sector_other">other</option>
-        </select>
-        <br>
-        <select name="region" id="region", placeholder="US geographic region">
+       </select></label>
+       <br>
+
+       <label>US Geographic Region: <select name="region" id="region", placeholder="US geographic region">
           <option value="region_Midwest">Midwest</option>
           <option value="region_Northeast">Northeast</option>
           <option value="region_South">South</option>
           <option value="region_West">West</option>
-        </select>
-        <br>
+       </select></label>
+       <br>
 
-      <button type="submit" class="btn btn-primary btn-block btn-large">Predict Salary</button>
+       <input type="number" name="company_age" placeholder="company age (years)" required="required" />
+       <br>
+
+       <input type="number" step = "0.01" name="company_rating" placeholder="Glassdoor company star rating" required="required" />
+       <br>
+
+       <button type="submit" class="btn btn-primary btn-block btn-large">Predict Salary</button>
     </form>
 
-   <br>
-   <br>
-   {{ prediction_text }}
+    <br>
 
- </div>
+   {{ prediction_text }}
+   <br>
+</div>
 </body>
 </html>
