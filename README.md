@@ -21,14 +21,31 @@ To obtain the data used in this project I scraped job postings off of the Glassd
 
 ### 2) Data Cleaning
 
-The scraped data contained job roles ranging many 
+The scraped data contained many fields that contained messy strings with strange characters with which I would need to parse out the desired data. I performed feature engineering to consolidate and categorize the categorical fields into smaller groups. For example, I consolidated the city and state location of each company down to US geographical region to reduce the number of variables. I grouped many other fields in a similar manner to reduce the dimensionality of the dataset. To get a uniform response variable for modeling, I took the average salary of the given range on the job posting.
+
 ### 3) Exploratory Data Analysis
+![Salary by Role](graphics/salary_by_role.png)
+
+![Salary by Role](graphics/salary_by_region.png)
 
 ### 4) Modeling
 
+The modeling phase started with breaking the data into a training and test set with an 80/20 split respectively and creating a scaled version of the dataset that will be used by some of the models. I started simply with linear regression and tested other models progressively up to more advanced models such as gradient boosted regression. I used 5-fold cross validation on the training set to choose the best parameters for the model and to pick the best performing model, and I then tested each model's performance on unseen data with the test set to get an unbiased measure of success.
+
+The models attempted and their respective results are as follows:
+![Model Metrics](graphics/model_result_metrics.png)
+
 ### 5) Deploying Model to Production
 
-## Results
+I used a flask backend along with an HTML/CSS/Javascript front end to create a simple GUI that allows the user to easy use the model locally. The web app accesses the pickled Random Forest model file that was exported from the modeling phase. The user will enter a couple values into the form and click the predict button to see the model output of their estimated salary based on the provided data. Usage instructions for running the web app can be seen in the section below. 
+
+![The functioning web app GUI for the model predictions](graphics/web_app1.png)
+
+## Conclusions
+![Elastic Net Feature Importances](graphics/EN_feature_importances.png)
+
+![Salary by Top City](graphics/salary_by_top_city.png)
+![Cost of Living Adjusted Plot](graphics/cost_of_living_adj_salary_by_top_city.png)
 
 ## Using the Webapp
 
@@ -38,7 +55,5 @@ The scraped data contained job roles ranging many
 4) Choose the values from the drop down box for your current job
 5) Lookup your company on Glassdoor and enter the age of the company and star rating in the input boxes
 6) Click on the "Predict Salary" button to see the estimated salary that the model predicts for you
-
-![The functioning web app GUI for the model predictions](graphics/web_app1.png)
 
 ![The results of the model prediction](graphics/web_app.png)
