@@ -1,4 +1,4 @@
-# Glassdoor_Salary_Analysis
+# Glassdoor Salary Prediction and Analysis
 
 ## Background
 
