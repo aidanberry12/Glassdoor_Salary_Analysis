@@ -1,0 +1,12 @@
+pandas
+numpy
+flask
+pickle
+selenium
+time
+matplotlib
+seaborn
+re
+datetime
+sklearn
+statsmodels
