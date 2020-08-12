@@ -71,7 +71,7 @@ From this, we can conclude that for data job seekers looking to get the most ban
 ## Using the Webapp
 
 1) Run app.py
-2) Naviate to your localhost at 127.0.0.1:5000 in the URL bar
+2) Naviate to your localhost at *127.0.0.1:5000* in the URL bar
 3) You should now see the GUI for the salary estimator
 4) Choose the values from the drop down box for your current job
 5) Lookup your company on Glassdoor and enter the age of the company and star rating in the input boxes
@@ -82,5 +82,7 @@ From this, we can conclude that for data job seekers looking to get the most ban
 # Resources Used
 
 **Project Inspiration:** [Ken Jee YouTube Channel] (https://www.youtube.com/channel/UCiT9RITQ9PW6BhXK0y2jaeg)
+
 **Web Scraper:** https://github.com/arapfaik/scraping-glassdoor-selenium
+
 **Flask App:** https://www.kdnuggets.com/2019/10/easily-deploy-machine-learning-models-using-flask.html
