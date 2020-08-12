@@ -78,3 +78,9 @@ From this, we can conclude that for data job seekers looking to get the most ban
 6) Click on the "Predict Salary" button to see the estimated salary that the model predicts for you
 
 ![The results of the model prediction](graphics/web_app.png)
+
+# Resources Used
+
+**Project Inspiration:** [Ken Jee YouTube Channel] (https://www.youtube.com/channel/UCiT9RITQ9PW6BhXK0y2jaeg)
+**Web Scraper:** https://github.com/arapfaik/scraping-glassdoor-selenium
+**Flask App:** https://www.kdnuggets.com/2019/10/easily-deploy-machine-learning-models-using-flask.html
