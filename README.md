@@ -79,7 +79,7 @@ From this, we can conclude that for data job seekers looking to get the most ban
 
 ![The results of the model prediction](graphics/web_app.png)
 
-# Resources Used
+## Resources Used
 
 **Project Inspiration:** [Ken Jee's YouTube Channel] (https://www.youtube.com/channel/UCiT9RITQ9PW6BhXK0y2jaeg)
 
