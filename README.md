@@ -81,7 +81,7 @@ From this, we can conclude that for data job seekers looking to get the most ban
 
 # Resources Used
 
-**Project Inspiration:** [Ken Jee YouTube Channel] (https://www.youtube.com/channel/UCiT9RITQ9PW6BhXK0y2jaeg)
+**Project Inspiration:** [Ken Jee's YouTube Channel] (https://www.youtube.com/channel/UCiT9RITQ9PW6BhXK0y2jaeg)
 
 **Web Scraper:** https://github.com/arapfaik/scraping-glassdoor-selenium
 
